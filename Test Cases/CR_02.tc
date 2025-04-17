@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify Header Navigation</name>
+   <name>CR_02</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7864f90c-9e47-4e71-8ede-2fbe00f842b7</testCaseGuid>
+   <testCaseGuid>d56003a0-2c1b-41cd-9e80-0ffd38e5d047</testCaseGuid>
 </TestCaseEntity>
