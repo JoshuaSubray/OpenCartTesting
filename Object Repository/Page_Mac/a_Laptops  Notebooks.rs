@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Laptops  Notebooks</name>
+   <tag></tag>
+   <elementGuidId>1fa9821d-138c-49c5-9553-71aedd09c73d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-menu']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Laptops &amp; Notebooks&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6b19866-6832-4a50-8552-f3ec4326f953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=18</value>
+      <webElementGuid>a22d8f17-0867-414b-8702-2802a407a54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle show</value>
+      <webElementGuid>794d7886-678f-4baa-b61a-5f2cad01615b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>8a0e5876-899d-484a-9934-61523b86dcbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>05cdf9cb-70a0-4c3c-9379-2a326a171e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laptops &amp; Notebooks</value>
+      <webElementGuid>c5dd8629-125f-44ca-87a7-17ef0fcee8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-menu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@class=&quot;nav-link dropdown-toggle show&quot;]</value>
+      <webElementGuid>b60cc62b-00d5-42f4-bff4-e9c23fe8f5f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-menu']/ul/li[2]/a</value>
+      <webElementGuid>8665a43d-bbb6-4039-961e-90a77b3a267e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Laptops &amp; Notebooks')]</value>
+      <webElementGuid>5de47610-dd87-48ac-b48c-822d3e8d6c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All Desktops'])[1]/following::a[1]</value>
+      <webElementGuid>56553066-7d62-49f0-8616-9ef6ffcd8e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mac (1)'])[1]/following::a[2]</value>
+      <webElementGuid>27710489-1ae1-4cf7-99ce-053779d26519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Macs (0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>d5458c83-96dd-40cb-aefb-55b127c14ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Windows (0)'])[1]/preceding::a[2]</value>
+      <webElementGuid>b24225b9-e765-424c-b5b1-f3892e9b5603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laptops &amp; Notebooks']/parent::*</value>
+      <webElementGuid>3b85d1af-f054-4c14-8433-3519612fde91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=18']</value>
+      <webElementGuid>060a3c4a-33a4-4d89-9e61-a016c4e504d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]/ul/li[2]/a</value>
+      <webElementGuid>0b91b83f-2b96-43c7-8808-52712dc06ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=18' and (text() = 'Laptops &amp; Notebooks' or . = 'Laptops &amp; Notebooks')]</value>
+      <webElementGuid>1ae1c654-2a72-4bdf-80c0-f16ef53c0821</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

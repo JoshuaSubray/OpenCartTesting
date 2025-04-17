@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mac (1)</name>
+   <tag></tag>
+   <elementGuidId>f06a9aa1-b154-4d86-867d-57dc25c04380</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.list-unstyled > li:nth-of-type(2) > a.dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mac (1)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e7209607-4da4-41aa-a1e9-52731ff77374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27</value>
+      <webElementGuid>a3265c7d-8b92-495c-a993-02d965947114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>d9d58174-8fdf-4e1b-a167-822ec1820d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mac (1)</value>
+      <webElementGuid>6286657d-2ab3-44c7-bb74-7e17bc4fc45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-menu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;dropdown-menu dropdown-column-1 show&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>8aa0e0a2-1d57-4fdd-afa3-7c19c9f25503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
+      <webElementGuid>e9a6054f-6d24-4e0a-8ea7-dd9a7c368100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mac (1)')]</value>
+      <webElementGuid>51404cd8-023b-4419-878a-db4ff6739495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC (0)'])[1]/following::a[1]</value>
+      <webElementGuid>47813506-2e79-48e8-af68-8d7f52b9d28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[1]/following::a[2]</value>
+      <webElementGuid>f012a0aa-4df4-4713-a887-1775c8857f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All Desktops'])[1]/preceding::a[1]</value>
+      <webElementGuid>2fbe005a-d5ee-4ec9-92b7-cad8fc4287c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptops &amp; Notebooks'])[1]/preceding::a[2]</value>
+      <webElementGuid>e972699b-356c-433e-8aac-cb1f92fcae3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mac (1)']/parent::*</value>
+      <webElementGuid>d92a8e9b-29d8-44a6-b827-63385b20884d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27']</value>
+      <webElementGuid>7b60d1c5-a865-4106-891b-66bdbc0132b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[2]/a</value>
+      <webElementGuid>c08e1eeb-ab03-482a-8e84-ea7951d136cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27' and (text() = 'Mac (1)' or . = 'Mac (1)')]</value>
+      <webElementGuid>1d00ed7c-00dc-4110-9f46-7b35b3453bb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

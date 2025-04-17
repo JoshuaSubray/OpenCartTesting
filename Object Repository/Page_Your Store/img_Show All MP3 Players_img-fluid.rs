@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Show All MP3 Players_img-fluid</name>
+   <tag></tag>
+   <elementGuidId>a664d2ff-c503-4a19-bd2a-39a2ae7ef0aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.text-center > a > img.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carousel-banner-0']/div[2]/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;iPhone 6&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5ba67dc5-b04c-4ae2-993f-8e6fdd6df137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://localhost/opencart41/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg</value>
+      <webElementGuid>30650ba8-71b5-46ea-838c-985bdf512c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>iPhone 6</value>
+      <webElementGuid>8c2c5546-3e00-499c-afaf-5df64d552ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>fcb89b9a-e6ba-4ced-aaa0-28e63b11ffe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carousel-banner-0&quot;)/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;carousel-item active&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 text-center&quot;]/a[1]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>4765ccaf-9a99-4d03-af50-4be25931aa65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carousel-banner-0']/div[2]/div/div/div/a/img</value>
+      <webElementGuid>a7655040-1ffb-448e-b65c-aaa36f010089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='iPhone 6']</value>
+      <webElementGuid>25c6a7fe-0276-49af-99a2-337b7d48154f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/a/img</value>
+      <webElementGuid>12cf2f02-41fb-4a41-946f-63eb4cbd8ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://localhost/opencart41/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg' and @alt = 'iPhone 6']</value>
+      <webElementGuid>38228cd1-5737-484b-81c6-1b7a58f7ff3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show All MP3 Players_fa-solid fa-chevr_11be74</name>
+   <tag></tag>
+   <elementGuidId>114b7ccb-569c-4e7b-9ff5-a1f68f5b3caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa-solid.fa-chevron-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carousel-banner-0']/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#carousel-banner-0 >> internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c36f8db-4eef-44fb-9bdd-81c173bbcfa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-chevron-right</value>
+      <webElementGuid>df932c32-a551-4f04-8cf7-7927671e30d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carousel-banner-0&quot;)/button[@class=&quot;carousel-control-next&quot;]/span[@class=&quot;fa-solid fa-chevron-right&quot;]</value>
+      <webElementGuid>8c0fadea-e196-4bcb-8825-32f002d3e064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carousel-banner-0']/button[2]/span</value>
+      <webElementGuid>bf0962cd-84dc-49c5-9502-1680e4ea0891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>8073b394-4cf8-49df-bd7b-31ed2f574261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
