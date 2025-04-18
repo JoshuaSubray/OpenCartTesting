@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Mac (1)</name>
+   <name>a_Samsung SyncMaster 941BW</name>
    <tag></tag>
-   <elementGuidId>f06a9aa1-b154-4d86-867d-57dc25c04380</elementGuidId>
+   <elementGuidId>01380b27-837a-467a-8ed0-4036ed6e406d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>ul.list-unstyled > li:nth-of-type(2) > a.dropdown-item</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
+         <value>//div[@id='product-list']/div[2]/div/div[2]/div/h4/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Mac (1)&quot;i]</value>
+         <value>internal:text=&quot;Samsung SyncMaster 941BW&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,118 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e828772b-63ac-4620-8180-2196d29c3c01</webElementGuid>
+      <webElementGuid>2f1c1093-d3d8-4a7a-beff-047ef5849072</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27</value>
-      <webElementGuid>fa8e42ac-84db-403f-9b20-d2465d0ea6ce</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>ee7037b1-d6b8-4a98-9e0e-c7254b7bca7d</webElementGuid>
+      <value>http://localhost/opencart41/upload/index.php?route=product/product&amp;language=en-gb&amp;product_id=33&amp;path=25_28</value>
+      <webElementGuid>f5d7dce9-7089-42e1-9016-d360dc0af3f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Mac (1)</value>
-      <webElementGuid>a77b5bf4-db5b-4096-98c0-3c9f636eae4e</webElementGuid>
+      <value>Samsung SyncMaster 941BW</value>
+      <webElementGuid>c6b6e112-59f8-475c-adcd-1d2bf5b87b6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbar-menu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;dropdown-menu dropdown-column-1&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>8d7feda9-ccba-4e93-ac72-4466c2f78c2d</webElementGuid>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col mb-3&quot;]/div[@class=&quot;product-thumb&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;description&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>c899d82e-9ce4-44eb-8950-8814fdd6c39a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
-      <webElementGuid>eecbfe2c-ffd2-43b2-9c94-d07c5b1569ac</webElementGuid>
+      <value>//div[@id='product-list']/div[2]/div/div[2]/div/h4/a</value>
+      <webElementGuid>0239dffd-7af7-4674-a8a9-71943e184fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Mac (1)')]</value>
-      <webElementGuid>bced19c8-5a3e-4232-84c7-e40ec6cd85f3</webElementGuid>
+      <value>//a[contains(text(),'Samsung SyncMaster 941BW')]</value>
+      <webElementGuid>1216daf3-58f1-44de-a41e-198fcc6a5932</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC (0)'])[1]/following::a[1]</value>
-      <webElementGuid>dec1197c-cde7-4b76-b5a1-3a2237bdd1cb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $100.00'])[1]/following::a[2]</value>
+      <webElementGuid>08215d22-8bf5-4a00-a331-8e26cd21c290</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[1]/following::a[2]</value>
-      <webElementGuid>d3dda745-9e13-4b7d-807a-1a3f16561434</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$122.00'])[1]/following::a[2]</value>
+      <webElementGuid>94cbe8d2-96cd-4cfe-a6a1-3bf628ef7e04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All Desktops'])[1]/preceding::a[1]</value>
-      <webElementGuid>780677f3-0d7d-43ca-bef2-773a3e478cf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$242.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>1507927a-9ba9-4a5d-84af-d8848eb770e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptops &amp; Notebooks'])[1]/preceding::a[2]</value>
-      <webElementGuid>165cae69-dccc-4996-8410-d8689ee9caa3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $200.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>ebfd0693-450b-44f9-b219-0a47d00a2132</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mac (1)']/parent::*</value>
-      <webElementGuid>1c997be4-a066-438e-b44c-0aa5c9bad043</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Samsung SyncMaster 941BW']/parent::*</value>
+      <webElementGuid>48946a39-79c8-4924-ad95-c2db1adc0f89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27']</value>
-      <webElementGuid>036aa101-6b6d-47b0-950d-3da63c871c58</webElementGuid>
+      <value>(//a[@href='http://localhost/opencart41/upload/index.php?route=product/product&amp;language=en-gb&amp;product_id=33&amp;path=25_28'])[2]</value>
+      <webElementGuid>e8a9fa36-80ba-4af9-92e7-49ee35f6cd8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/ul/li[2]/a</value>
-      <webElementGuid>531ad496-8293-4772-bd01-6869d48fcc1a</webElementGuid>
+      <value>//div[2]/div/div[2]/div/h4/a</value>
+      <webElementGuid>2681a57a-d37e-4e82-9823-d0c22b2e40b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27' and (text() = 'Mac (1)' or . = 'Mac (1)')]</value>
-      <webElementGuid>3d882e1c-d57b-4932-b737-ddab118276b6</webElementGuid>
+      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/product&amp;language=en-gb&amp;product_id=33&amp;path=25_28' and (text() = 'Samsung SyncMaster 941BW' or . = 'Samsung SyncMaster 941BW')]</value>
+      <webElementGuid>2050dfa8-2014-4347-b05a-d4454888abd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Samsung SyncMaster 941BW_img-thumbnail mb-3</name>
+   <tag></tag>
+   <elementGuidId>a110ce99-185e-4656-9d61-5c1ec0a7c48a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-thumbnail.mb-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#content >> internal:role=link[name=&quot;Samsung SyncMaster 941BW&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a5cf93bc-4150-4c2d-b40f-ed76c4c1aaa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://localhost/opencart41/upload/image/cache/catalog/demo/samsung_syncmaster_941bw-500x500.jpg</value>
+      <webElementGuid>c9b76318-14be-4856-a408-fcea46c22b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Samsung SyncMaster 941BW</value>
+      <webElementGuid>71adc5a0-ae3f-46a5-86b8-a0a492071a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Samsung SyncMaster 941BW</value>
+      <webElementGuid>d69778c1-d2b1-4f7c-a351-53a897fb9ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-thumbnail mb-3</value>
+      <webElementGuid>4465beb4-46ac-4378-9980-7205c59ba12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm&quot;]/div[@class=&quot;image magnific-popup&quot;]/a[1]/img[@class=&quot;img-thumbnail mb-3&quot;]</value>
+      <webElementGuid>3c45ab2e-9013-4c3f-a039-f0a0cf2d78d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/a/img</value>
+      <webElementGuid>20eb686f-61b4-49ab-975f-d3b33545ebb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Samsung SyncMaster 941BW']</value>
+      <webElementGuid>709aa47d-6b35-4f55-a055-d7a13df34d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a/img</value>
+      <webElementGuid>6f8eb74a-401c-4dc2-bc40-cf849ca8de03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'http://localhost/opencart41/upload/image/cache/catalog/demo/samsung_syncmaster_941bw-500x500.jpg' and @title = 'Samsung SyncMaster 941BW' and @alt = 'Samsung SyncMaster 941BW']</value>
+      <webElementGuid>dc983702-a7d7-41e0-87d3-98e930ec2b11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

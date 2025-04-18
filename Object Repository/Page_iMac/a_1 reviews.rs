@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Mac (1)</name>
+   <name>a_1 reviews</name>
    <tag></tag>
-   <elementGuidId>f06a9aa1-b154-4d86-867d-57dc25c04380</elementGuidId>
+   <elementGuidId>96c77f5a-885d-4786-be75-ff5d752dced4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>ul.list-unstyled > li:nth-of-type(2) > a.dropdown-item</value>
+         <value>p > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
+         <value>//a[@onclick=&quot;$('a[href=\'#tab-review\']').tab('show'); return false;&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Mac (1)&quot;i]</value>
+         <value>internal:role=link[name=&quot;1 reviews&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,118 +29,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e828772b-63ac-4620-8180-2196d29c3c01</webElementGuid>
+      <webElementGuid>ce84f7a6-3ce8-47c0-a9b6-fd4f1ea47657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27</value>
-      <webElementGuid>fa8e42ac-84db-403f-9b20-d2465d0ea6ce</webElementGuid>
+      <value>#</value>
+      <webElementGuid>d41b8b40-83c4-48b9-800c-d3a8d1f22280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>ee7037b1-d6b8-4a98-9e0e-c7254b7bca7d</webElementGuid>
+      <value>$('a[href=\'#tab-review\']').tab('show'); return false;</value>
+      <webElementGuid>2dea9bd1-e5a6-4a19-a174-4cd84e6c8749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Mac (1)</value>
-      <webElementGuid>a77b5bf4-db5b-4096-98c0-3c9f636eae4e</webElementGuid>
+      <value>1 reviews</value>
+      <webElementGuid>753fbc0f-ea66-475d-8e2f-1f5afc3cd3c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbar-menu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;dropdown-menu dropdown-column-1&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>8d7feda9-ccba-4e93-ac72-4466c2f78c2d</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-sm&quot;]/div[@class=&quot;rating&quot;]/p[1]/a[1]</value>
+      <webElementGuid>31094c3a-86ff-44f6-9c29-22d868362678</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;$('a[href=\'#tab-review\']').tab('show'); return false;&quot;]</value>
+      <webElementGuid>721ad1a3-7bb5-470f-91cf-7193c86eb6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
-      <webElementGuid>eecbfe2c-ffd2-43b2-9c94-d07c5b1569ac</webElementGuid>
+      <value>//div[@id='content']/div/div[2]/div/p/a</value>
+      <webElementGuid>70c15120-c836-4238-81cf-83449cb6c5f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Mac (1)')]</value>
-      <webElementGuid>bced19c8-5a3e-4232-84c7-e40ec6cd85f3</webElementGuid>
+      <value>//a[contains(text(),'1 reviews')]</value>
+      <webElementGuid>5b685102-e340-4320-a2f9-667ad5e5191d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC (0)'])[1]/following::a[1]</value>
-      <webElementGuid>dec1197c-cde7-4b76-b5a1-3a2237bdd1cb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Availability: In Stock'])[1]/following::a[1]</value>
+      <webElementGuid>cadefa1e-9e53-41c8-8caf-fbdce3aca664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[1]/following::a[2]</value>
-      <webElementGuid>d3dda745-9e13-4b7d-807a-1a3f16561434</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Code: Product 14'])[1]/following::a[1]</value>
+      <webElementGuid>afdef806-f028-4460-ade5-53889444bcac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All Desktops'])[1]/preceding::a[1]</value>
-      <webElementGuid>780677f3-0d7d-43ca-bef2-773a3e478cf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$122.00'])[1]/preceding::a[2]</value>
+      <webElementGuid>fd0e90e6-4873-49e1-af3f-bab5fdaf044a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptops &amp; Notebooks'])[1]/preceding::a[2]</value>
-      <webElementGuid>165cae69-dccc-4996-8410-d8689ee9caa3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $100.00'])[1]/preceding::a[2]</value>
+      <webElementGuid>a8f81a25-9a70-4e45-a252-385d05ec1265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mac (1)']/parent::*</value>
-      <webElementGuid>1c997be4-a066-438e-b44c-0aa5c9bad043</webElementGuid>
+      <value>//*/text()[normalize-space(.)='1 reviews']/parent::*</value>
+      <webElementGuid>411f50ec-3058-48d8-88b2-789b68c3f206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27']</value>
-      <webElementGuid>036aa101-6b6d-47b0-950d-3da63c871c58</webElementGuid>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>e4be435e-f748-43f6-b665-0bb4659d95a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/ul/li[2]/a</value>
-      <webElementGuid>531ad496-8293-4772-bd01-6869d48fcc1a</webElementGuid>
+      <value>//p/a</value>
+      <webElementGuid>b65e78cf-0127-446e-8588-c2e0de88f716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27' and (text() = 'Mac (1)' or . = 'Mac (1)')]</value>
-      <webElementGuid>3d882e1c-d57b-4932-b737-ddab118276b6</webElementGuid>
+      <value>//a[@href = '#' and (text() = '1 reviews' or . = '1 reviews')]</value>
+      <webElementGuid>fc9c4de7-95f1-4dce-8847-d569196e55f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

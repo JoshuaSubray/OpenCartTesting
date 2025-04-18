@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__mfp-img</name>
+   <tag></tag>
+   <elementGuidId>ac265d38-1b91-4d7a-aa87-021d78251c89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.mfp-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Samsung SyncMaster 941BW']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=figure[name=&quot;Samsung SyncMaster 941BW&quot;i] >> internal:attr=[alt=&quot;Samsung SyncMaster 941BW&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f02f9fd7-f0e0-48a4-ba6d-4b1fa82b0cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mfp-img</value>
+      <webElementGuid>cfd28268-ee96-44f7-a357-4e672ac22bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Samsung SyncMaster 941BW</value>
+      <webElementGuid>d657adc4-8085-4357-a706-71d85fea9b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>http://localhost/opencart41/upload/image/cache/catalog/demo/samsung_syncmaster_941bw-800x800.jpg</value>
+      <webElementGuid>767f36e3-871a-42f4-b123-fd83410c22e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mfp-zoom-out-cur&quot;]/div[@class=&quot;mfp-wrap mfp-gallery mfp-close-btn-in mfp-auto-cursor mfp-ready&quot;]/div[@class=&quot;mfp-container mfp-image-holder mfp-s-ready&quot;]/div[@class=&quot;mfp-content&quot;]/div[@class=&quot;mfp-figure&quot;]/figure[1]/img[@class=&quot;mfp-img&quot;]</value>
+      <webElementGuid>b510f2d8-6801-43d6-ab7f-05d2913fb384</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Samsung SyncMaster 941BW']</value>
+      <webElementGuid>8cd7523f-065e-41cd-8ff7-8ae994561a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>bf282534-674b-4101-b0eb-1919d3eb8546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Samsung SyncMaster 941BW' and @src = 'http://localhost/opencart41/upload/image/cache/catalog/demo/samsung_syncmaster_941bw-800x800.jpg']</value>
+      <webElementGuid>b5ceb1f4-9458-46f8-a683-2de19a7090f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

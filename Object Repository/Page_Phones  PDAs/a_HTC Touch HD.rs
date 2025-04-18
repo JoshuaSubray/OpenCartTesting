@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Mac (1)</name>
+   <name>a_HTC Touch HD</name>
    <tag></tag>
-   <elementGuidId>f06a9aa1-b154-4d86-867d-57dc25c04380</elementGuidId>
+   <elementGuidId>fc51a2bf-3935-4ee2-ab11-4edf302ed59b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>ul.list-unstyled > li:nth-of-type(2) > a.dropdown-item</value>
+         <value>h4 > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
+         <value>//div[@id='product-list']/div/div/div[2]/div/h4/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Mac (1)&quot;i]</value>
+         <value>internal:text=&quot;HTC Touch HD&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,118 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e828772b-63ac-4620-8180-2196d29c3c01</webElementGuid>
+      <webElementGuid>ac9bfc44-089d-46ee-a528-3ab30823bd6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27</value>
-      <webElementGuid>fa8e42ac-84db-403f-9b20-d2465d0ea6ce</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>ee7037b1-d6b8-4a98-9e0e-c7254b7bca7d</webElementGuid>
+      <value>http://localhost/opencart41/upload/index.php?route=product/product&amp;language=en-gb&amp;product_id=28&amp;path=24</value>
+      <webElementGuid>6333aef6-fe18-4a9f-888a-74c6b84608a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Mac (1)</value>
-      <webElementGuid>a77b5bf4-db5b-4096-98c0-3c9f636eae4e</webElementGuid>
+      <value>HTC Touch HD</value>
+      <webElementGuid>701d5e24-5df3-4e9b-aea6-ab1625f54778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbar-menu&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/div[@class=&quot;dropdown-menu dropdown-column-1&quot;]/div[@class=&quot;dropdown-inner&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[2]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>8d7feda9-ccba-4e93-ac72-4466c2f78c2d</webElementGuid>
+      <value>id(&quot;product-list&quot;)/div[@class=&quot;col mb-3&quot;]/div[@class=&quot;product-thumb&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;description&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>570725d2-5c49-4dc6-985c-051ff21bcef1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbar-menu']/ul/li/div/div/ul/li[2]/a</value>
-      <webElementGuid>eecbfe2c-ffd2-43b2-9c94-d07c5b1569ac</webElementGuid>
+      <value>//div[@id='product-list']/div/div/div[2]/div/h4/a</value>
+      <webElementGuid>6d68c2e9-7bc2-4d57-8417-9d050b9c96bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Mac (1)')]</value>
-      <webElementGuid>bced19c8-5a3e-4232-84c7-e40ec6cd85f3</webElementGuid>
+      <value>//a[contains(text(),'HTC Touch HD')]</value>
+      <webElementGuid>4f3053c5-8206-4bae-841d-dd9641f90f3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC (0)'])[1]/following::a[1]</value>
-      <webElementGuid>dec1197c-cde7-4b76-b5a1-3a2237bdd1cb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/following::a[2]</value>
+      <webElementGuid>93aa0259-5c34-40f7-99fd-c49bf288dcf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[1]/following::a[2]</value>
-      <webElementGuid>d3dda745-9e13-4b7d-807a-1a3f16561434</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::a[2]</value>
+      <webElementGuid>55240aa2-67d5-4118-b9f0-76c511889141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All Desktops'])[1]/preceding::a[1]</value>
-      <webElementGuid>780677f3-0d7d-43ca-bef2-773a3e478cf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$122.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>f128e840-c000-4424-805e-2465e9fb4fad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptops &amp; Notebooks'])[1]/preceding::a[2]</value>
-      <webElementGuid>165cae69-dccc-4996-8410-d8689ee9caa3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: $100.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>bd327e87-e17d-4d34-bd75-06b46474c4c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mac (1)']/parent::*</value>
-      <webElementGuid>1c997be4-a066-438e-b44c-0aa5c9bad043</webElementGuid>
+      <value>//*/text()[normalize-space(.)='HTC Touch HD']/parent::*</value>
+      <webElementGuid>4e725704-a83c-455d-83a8-5b81ba5bc291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27']</value>
-      <webElementGuid>036aa101-6b6d-47b0-950d-3da63c871c58</webElementGuid>
+      <value>(//a[@href='http://localhost/opencart41/upload/index.php?route=product/product&amp;language=en-gb&amp;product_id=28&amp;path=24'])[2]</value>
+      <webElementGuid>130227b0-92bc-4455-99aa-c543da8e927d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/ul/li[2]/a</value>
-      <webElementGuid>531ad496-8293-4772-bd01-6869d48fcc1a</webElementGuid>
+      <value>//h4/a</value>
+      <webElementGuid>48635c3a-0bbe-4da5-b5e7-32c643740080</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/category&amp;language=en-gb&amp;path=20_27' and (text() = 'Mac (1)' or . = 'Mac (1)')]</value>
-      <webElementGuid>3d882e1c-d57b-4932-b737-ddab118276b6</webElementGuid>
+      <value>//a[@href = 'http://localhost/opencart41/upload/index.php?route=product/product&amp;language=en-gb&amp;product_id=28&amp;path=24' and (text() = 'HTC Touch HD' or . = 'HTC Touch HD')]</value>
+      <webElementGuid>81e04b63-655d-4a54-95c3-27261449cef6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
