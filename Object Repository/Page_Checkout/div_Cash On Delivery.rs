@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cash On Delivery</name>
+   <tag></tag>
+   <elementGuidId>444be3cb-4357-4b5d-8a7e-0c227f6654b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-payment-method']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-payment-method > div.form-check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#form-payment-method div >> internal:has-text=&quot;Cash On Delivery&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2294db8f-8a63-4662-a309-964fa4cb471f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check</value>
+      <webElementGuid>e003389c-ec21-4d93-9e89-fc2e13beffa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Cash On Delivery</value>
+      <webElementGuid>a4a7e56a-e91c-4241-a7a1-9c8a6061e93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-payment-method&quot;)/div[@class=&quot;form-check&quot;]</value>
+      <webElementGuid>be04b76a-ecf7-478c-9e85-8e8a622ca429</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-payment-method']/div</value>
+      <webElementGuid>a068ede1-7a7c-4f63-af46-ef00f982cedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash On Delivery'])[1]/following::div[1]</value>
+      <webElementGuid>f0ffbf39-0750-410f-a055-27795315d2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment method options'])[1]/following::div[2]</value>
+      <webElementGuid>a493fcba-2695-4fa3-9784-402cda352a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[3]/preceding::div[1]</value>
+      <webElementGuid>9fd74995-cf6b-4df9-86d8-f5f50ca898b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div</value>
+      <webElementGuid>293bbf7a-6cc6-48ee-aec8-1d0040187a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Cash On Delivery' or . = '  Cash On Delivery')]</value>
+      <webElementGuid>45cd80d3-753f-4b3a-9704-1d509dae5eae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

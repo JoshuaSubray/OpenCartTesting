@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Please select the preferred payment me_4dd1d0</name>
+   <tag></tag>
+   <elementGuidId>771316f8-f329-4801-8b23-18634fd496af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-payment-method']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-payment-method</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Please select the preferred payment method to use for this order.Cash On Deliver&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>f8f5a8e1-0f54-4262-a652-6a845d6d5fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>form-payment-method</value>
+      <webElementGuid>4dfc1a1f-e0f2-4a25-9ee1-09506e175816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>          Please select the preferred payment method to use for this order.Cash On Delivery  Cash On Delivery                      Continue                  </value>
+      <webElementGuid>7732be93-a79f-4a8c-8715-2c0e0f4f24e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-payment-method&quot;)</value>
+      <webElementGuid>0d487086-9166-4a33-ac2c-35064d110d98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@id='form-payment-method']</value>
+      <webElementGuid>66c881ae-946b-42cd-9b8b-1b5d040b2532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-payment']/div/div/div[2]/form</value>
+      <webElementGuid>b92a4177-dbf9-4743-8e75-3baa97972004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment method options'])[1]/following::form[1]</value>
+      <webElementGuid>322aa364-cac8-4813-a49c-0292394b2d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[2]/following::form[1]</value>
+      <webElementGuid>764bfa2d-24ce-427a-82c6-31466d6333aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form</value>
+      <webElementGuid>0163f641-8e43-4b50-8555-721aec4c3b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'form-payment-method' and (text() = '          Please select the preferred payment method to use for this order.Cash On Delivery  Cash On Delivery                      Continue                  ' or . = '          Please select the preferred payment method to use for this order.Cash On Delivery  Cash On Delivery                      Continue                  ')]</value>
+      <webElementGuid>bcb5ca29-eb3a-477a-af49-2d9a9065db58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_123.20_fa-solid fa-circle-xmark</name>
+   <tag></tag>
+   <elementGuidId>82032518-1fd4-4415-bf84-1a95823215e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart']/div/ul/li/table/tbody/tr/td[5]/form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-circle-xmark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Remove&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>866476ba-cd35-4bab-8797-8c06a198a964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-circle-xmark</value>
+      <webElementGuid>a05f1a00-197f-4905-9c07-4e2cac50925d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart&quot;)/div[@class=&quot;dropdown d-grid&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end p-2 show&quot;]/li[1]/table[@class=&quot;table table-striped mb-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-end&quot;]/form[1]/button[@class=&quot;btn btn-danger&quot;]/i[@class=&quot;fa-solid fa-circle-xmark&quot;]</value>
+      <webElementGuid>9db9f517-3293-45dd-a2c3-59b90e10c775</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart']/div/ul/li/table/tbody/tr/td[5]/form/button/i</value>
+      <webElementGuid>5871cba4-afde-491e-86c6-49b181a426c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/form/button/i</value>
+      <webElementGuid>fc42b103-3ae9-4f0d-bc3d-3fff918e06e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

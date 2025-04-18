@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost/opencart41/upload/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/a_My Account'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/a_Register'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_First Name_firstname'), 'notedgar')
+
+WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_Last Name_lastname'), 'notedgar')
+
+WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_E-Mail_email'), 'edgar')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Register Account/input_Password_password'), 'rWKTj2rWS6s=')
+
+WebUI.click(findTestObject('Object Repository/Page_Register Account/input_Privacy Policy_agree'))
+
+WebUI.click(findTestObject('Object Repository/Page_Register Account/button_Continue'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_E-Mail_email'), 'edgar@mail')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Register Account/input_Password_password'), 'kRiZE2I1nq0=')
+
+WebUI.click(findTestObject('Object Repository/Page_Register Account/button_Continue'))
+
+WebUI.closeBrowser()
+

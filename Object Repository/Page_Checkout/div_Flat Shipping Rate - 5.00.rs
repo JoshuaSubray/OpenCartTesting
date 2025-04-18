@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Flat Shipping Rate - 5.00</name>
+   <tag></tag>
+   <elementGuidId>8bca3826-d61a-4058-9a28-93f4c8ed2aef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-shipping-method']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-shipping-method > div.form-check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#form-shipping-method div >> internal:has-text=&quot;Flat Shipping Rate - $5.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9017fbcb-1293-41c2-babb-24a22e8d4564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check</value>
+      <webElementGuid>d2514d80-533d-4c1d-b03a-4a8c4a8c1766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Flat Shipping Rate - $5.00</value>
+      <webElementGuid>ae7b83f5-30dc-491b-9aaa-01c45f9fffde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-shipping-method&quot;)/div[@class=&quot;form-check&quot;]</value>
+      <webElementGuid>e35d5ecc-3fd2-448a-9ffe-e245142dbca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-shipping-method']/div</value>
+      <webElementGuid>87577ede-78c6-4d1c-9726-910141fd0ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Rate'])[1]/following::div[1]</value>
+      <webElementGuid>3c62fa16-b1e9-4eab-8379-3a60df551946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping method options'])[1]/following::div[2]</value>
+      <webElementGuid>4cb570ee-9b0a-491d-bdcd-b03420dc8be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[2]/preceding::div[1]</value>
+      <webElementGuid>58bb3921-fde0-4922-9295-0f3d38b7c0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div</value>
+      <webElementGuid>66c4f121-0f3b-453e-a19a-14288011c1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Flat Shipping Rate - $5.00' or . = '  Flat Shipping Rate - $5.00')]</value>
+      <webElementGuid>ba8bbbd6-1ba8-4b76-bc01-23998ff2b4f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

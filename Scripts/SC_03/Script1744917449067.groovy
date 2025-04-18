@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://localhost/opencart41/upload/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_submit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_1 item(s) - 123.20'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/span_Shopping Cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/td'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Shopping Cart/input_- Model product 11_quantity'), '4')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Shopping Cart/input_- Model product 11_quantity'), Keys.chord(Keys.ENTER))
+
+WebUI.closeBrowser()
+
