@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add to Cart_fa fa-heart</name>
+   <tag></tag>
+   <elementGuidId>40fa1ea6-2920-4c02-a41e-aa5e92ed8a1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/div/div[3]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1ec1947a-1d69-472e-bda0-93e2c8eb8617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-heart</value>
+      <webElementGuid>16f5e3d1-08e5-4a24-bdf3-32d4dde90402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;product-thumb transition&quot;]/div[@class=&quot;button-group&quot;]/button[2]/i[@class=&quot;fa fa-heart&quot;]</value>
+      <webElementGuid>1c234bd1-635d-4731-8f79-2f3c26553f5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/div/div[3]/button[2]/i</value>
+      <webElementGuid>f1087a0c-b7ca-46df-b5a6-d8c8418381da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/button[2]/i</value>
+      <webElementGuid>c344b68a-5fb8-46ea-8170-ae2b17a0c97c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

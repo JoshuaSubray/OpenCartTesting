@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>a_Contact Us</name>
    <tag></tag>
-   <elementGuidId>8eac27b2-1e40-45be-84fc-aeb37fc27ca2</elementGuidId>
+   <elementGuidId>e0e9fad0-1d01-4367-a468-86586cf1790f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
+         <value>//a[contains(text(),'Contact Us')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.dropdown-menu-right > li:nth-of-type(2) > a</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+         <value>internal:role=link[name=&quot;Contact Us&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c66e7f31-103d-4cce-a5b1-45f31e85bdea</webElementGuid>
+      <webElementGuid>f3e7ed78-337a-4f91-98c6-5522d032c965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://demo.opencart.com.gr/index.php?route=account/login</value>
-      <webElementGuid>2171e167-4278-46a1-bb85-1c2c5a05ca3c</webElementGuid>
+      <value>https://demo.opencart.com.gr/index.php?route=information/contact</value>
+      <webElementGuid>1b08d5ee-987c-4c79-892b-1ad57d15a3b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>a408aa14-b616-408f-9a1e-1892e6440be8</webElementGuid>
+      <value>Contact Us</value>
+      <webElementGuid>c3513833-9f81-49c1-824f-bbc71e17f8d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>107110e9-c003-4cfc-8894-b04d095b69c9</webElementGuid>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/ul[@class=&quot;list-unstyled&quot;]/li[1]/a[1]</value>
+      <webElementGuid>579a5e94-c8eb-49c0-8a1f-1327f12d43c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>74d611bb-47f8-4b67-856c-899ba86e5afc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>d29de61e-a2a0-4329-bbbf-673444807581</webElementGuid>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>bd2144c9-f6f4-47b5-b678-5b8917506e9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>7b540fc3-de4a-4ebd-8261-c8de9d93d943</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service'])[1]/following::a[1]</value>
+      <webElementGuid>aff68e15-f0a7-420a-b724-0e1712c0e657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>a040a3a3-4435-4582-bb48-968a224c1059</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/following::a[1]</value>
+      <webElementGuid>7da0e05f-6284-4001-8741-07384700f88d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (2)'])[1]/preceding::a[1]</value>
-      <webElementGuid>808ba173-8de9-4ed8-b188-b9644aaae85b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns'])[1]/preceding::a[1]</value>
+      <webElementGuid>b6d2aa7a-5dee-4bd2-955d-668d528f8489</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>007e53ba-aed1-444b-b062-a9db2f01979b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Map'])[1]/preceding::a[2]</value>
+      <webElementGuid>5ef9dc5b-76cd-405c-abd2-bb494dfd572b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>4440662f-92b6-477c-a39b-b79a37cf4e6f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>ec14fec2-7cbc-472b-98e1-9419da7e2a97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=account/login')]</value>
-      <webElementGuid>63d2693a-a087-49de-88ed-5a0b0a821fc0</webElementGuid>
+      <value>(//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=information/contact')])[2]</value>
+      <webElementGuid>141c92cf-73a7-4278-8f93-5af6002d84f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>14854de3-aa28-4559-8b73-3d3e05368d1d</webElementGuid>
+      <value>//div/div/div[2]/ul/li/a</value>
+      <webElementGuid>4cd3e6f7-24d5-48bc-8924-917facb4635e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>1deff6da-7747-4187-a753-5a3b1f5320f3</webElementGuid>
+      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=information/contact' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>dcb0e3d9-4f5b-4b1c-ad08-3f7622ebaeef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

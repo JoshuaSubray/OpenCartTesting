@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pound Sterling</name>
+   <tag></tag>
+   <elementGuidId>eded73c0-8f83-46ed-91e4-c8e2f85d7578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='GBP']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;GBP&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;£ Pound Sterling&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9bda9bf-56df-4238-b7fc-3ad192ef8a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>currency-select btn btn-link btn-block</value>
+      <webElementGuid>9a61775e-7667-425b-9579-a71f6cb8d15e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15dc7e7c-4731-47e7-9557-c58585efb458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>GBP</value>
+      <webElementGuid>759b8864-8243-4ee7-b8b1-c71396e1eab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>£ Pound Sterling</value>
+      <webElementGuid>e217e2ab-eb5c-4779-97c3-5ee504b95e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-currency&quot;)/div[@class=&quot;btn-group open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[2]/button[@class=&quot;currency-select btn btn-link btn-block&quot;]</value>
+      <webElementGuid>71c191d2-78fa-46bf-8507-543600535b67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='GBP']</value>
+      <webElementGuid>724562b4-080e-43af-a06b-42a2c549975b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-currency']/div/ul/li[2]/button</value>
+      <webElementGuid>82da9bac-f2c1-4488-89db-6dcc55fe8ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€ Euro'])[1]/following::button[1]</value>
+      <webElementGuid>b47030cc-d727-4bc9-844c-92461a7c14bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::button[2]</value>
+      <webElementGuid>95a37780-4448-4ab3-b374-5e0959e6a6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$ US Dollar'])[1]/preceding::button[1]</value>
+      <webElementGuid>e26d7d24-8932-44ba-9b9d-dc70a1e3cfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/preceding::button[2]</value>
+      <webElementGuid>9502ea14-862d-45b0-9c07-539625628fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='£ Pound Sterling']/parent::*</value>
+      <webElementGuid>d44da298-f4e9-4b47-a2ac-3e02de94fda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button</value>
+      <webElementGuid>aeb017cf-4df4-4238-98d6-c0bbfabd3bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @name = 'GBP' and (text() = '£ Pound Sterling' or . = '£ Pound Sterling')]</value>
+      <webElementGuid>ff28b5dc-eba7-463e-81a1-4f94ae62fa87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

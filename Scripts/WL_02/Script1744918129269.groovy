@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.opencart.com.gr/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/i_Add to Cart_fa fa-heart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/a_wish list'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Wish List/a_61.86_btn btn-danger'))
+
+WebUI.click(findTestObject('Object Repository/Page_My Wish List/i_61.86_fa fa-times'))
+

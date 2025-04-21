@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.opencart.com.gr/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_Currency'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_Pound Sterling'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/a_iPhone'))
+

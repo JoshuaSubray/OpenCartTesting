@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>a_Your Store</name>
    <tag></tag>
-   <elementGuidId>8eac27b2-1e40-45be-84fc-aeb37fc27ca2</elementGuidId>
+   <elementGuidId>3bbc6078-161e-474c-8a2c-ec9d382d039e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
+         <value>//div[@id='logo']/h1/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.dropdown-menu-right > li:nth-of-type(2) > a</value>
+         <value>h1 > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+         <value>internal:role=link[name=&quot;Your Store&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c66e7f31-103d-4cce-a5b1-45f31e85bdea</webElementGuid>
+      <webElementGuid>5925987b-d25a-45ea-9480-08ccb4c527d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://demo.opencart.com.gr/index.php?route=account/login</value>
-      <webElementGuid>2171e167-4278-46a1-bb85-1c2c5a05ca3c</webElementGuid>
+      <value>https://demo.opencart.com.gr/index.php?route=common/home</value>
+      <webElementGuid>119e4ae9-155e-4d24-9d97-4c4158857ff0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>a408aa14-b616-408f-9a1e-1892e6440be8</webElementGuid>
+      <value>Your Store</value>
+      <webElementGuid>13c9e1d8-6c66-49c2-880d-9798dea2ad29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>107110e9-c003-4cfc-8894-b04d095b69c9</webElementGuid>
+      <value>id(&quot;logo&quot;)/h1[1]/a[1]</value>
+      <webElementGuid>f423362f-396d-406d-88cd-9ae2f2b5c8f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>74d611bb-47f8-4b67-856c-899ba86e5afc</webElementGuid>
+      <value>//div[@id='logo']/h1/a</value>
+      <webElementGuid>f6894d64-06ee-45ff-9835-13683630fe4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>d29de61e-a2a0-4329-bbbf-673444807581</webElementGuid>
+      <value>//a[contains(text(),'Your Store')]</value>
+      <webElementGuid>c602a610-926d-47ce-b185-0870d326141c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>7b540fc3-de4a-4ebd-8261-c8de9d93d943</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::a[1]</value>
+      <webElementGuid>1c7ec11c-de50-4430-ace3-833bddde98bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>a040a3a3-4435-4582-bb48-968a224c1059</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::a[2]</value>
+      <webElementGuid>d791886c-1900-4822-9a03-d54561ff6b5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (2)'])[1]/preceding::a[1]</value>
-      <webElementGuid>808ba173-8de9-4ed8-b188-b9644aaae85b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::a[1]</value>
+      <webElementGuid>710e2b79-01f1-4eb9-83e8-cc128f865aab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>007e53ba-aed1-444b-b062-a9db2f01979b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>4440662f-92b6-477c-a39b-b79a37cf4e6f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktops'])[1]/preceding::a[1]</value>
+      <webElementGuid>95bf95d5-d61a-4ad0-9215-294a94ff4cb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=account/login')]</value>
-      <webElementGuid>63d2693a-a087-49de-88ed-5a0b0a821fc0</webElementGuid>
+      <value>//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=common/home')]</value>
+      <webElementGuid>41782fde-bba0-4b5b-bbed-51ca1ad5b105</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>14854de3-aa28-4559-8b73-3d3e05368d1d</webElementGuid>
+      <value>//h1/a</value>
+      <webElementGuid>358a8d4f-4458-406e-9c30-f7350f904e21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>1deff6da-7747-4187-a753-5a3b1f5320f3</webElementGuid>
+      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=common/home' and (text() = 'Your Store' or . = 'Your Store')]</value>
+      <webElementGuid>e3490062-b9b1-46b9-bad1-a6e908c8943a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

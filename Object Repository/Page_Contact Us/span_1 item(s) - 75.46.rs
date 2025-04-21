@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>span_1 item(s) - 75.46</name>
    <tag></tag>
-   <elementGuidId>8eac27b2-1e40-45be-84fc-aeb37fc27ca2</elementGuidId>
+   <elementGuidId>66549b9e-6ea5-4c11-a54b-e7bb9bd98614</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
+         <value>//span[@id='cart-total']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.dropdown-menu-right > li:nth-of-type(2) > a</value>
+         <value>#cart-total</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+         <value>internal:role=button[name=&quot; 1 item(s) - £75.46&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>c66e7f31-103d-4cce-a5b1-45f31e85bdea</webElementGuid>
+      <value>span</value>
+      <webElementGuid>9aeced3a-3b9e-48f2-8fcc-49ea7b91dcfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>https://demo.opencart.com.gr/index.php?route=account/login</value>
-      <webElementGuid>2171e167-4278-46a1-bb85-1c2c5a05ca3c</webElementGuid>
+      <value>cart-total</value>
+      <webElementGuid>c1188059-c49e-483f-8740-b9775def34ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>a408aa14-b616-408f-9a1e-1892e6440be8</webElementGuid>
+      <value>1 item(s) - £75.46</value>
+      <webElementGuid>73f54aef-898e-461a-a4b0-849e914988b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>107110e9-c003-4cfc-8894-b04d095b69c9</webElementGuid>
+      <value>id(&quot;cart-total&quot;)</value>
+      <webElementGuid>8f7aedcb-7ccc-4e3d-ac0f-4d50a1a1c2be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='cart-total']</value>
+      <webElementGuid>e0105bc6-35ff-4fcd-9b5f-efb31c3c4b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>74d611bb-47f8-4b67-856c-899ba86e5afc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>d29de61e-a2a0-4329-bbbf-673444807581</webElementGuid>
+      <value>//div[@id='cart']/button/span</value>
+      <webElementGuid>b64adaa5-9f0b-4920-9234-8100889caa15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>7b540fc3-de4a-4ebd-8261-c8de9d93d943</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Store'])[1]/following::span[2]</value>
+      <webElementGuid>01756c86-d72c-48af-b85f-858e11421a3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>a040a3a3-4435-4582-bb48-968a224c1059</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::span[2]</value>
+      <webElementGuid>3f878ea1-f926-4434-92ee-e757f993e7e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (2)'])[1]/preceding::a[1]</value>
-      <webElementGuid>808ba173-8de9-4ed8-b188-b9644aaae85b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[1]/preceding::span[1]</value>
+      <webElementGuid>856ff157-f4df-4525-bbb4-67e4a5308438</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>007e53ba-aed1-444b-b062-a9db2f01979b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x 1'])[1]/preceding::span[1]</value>
+      <webElementGuid>ff9315ae-c383-4ed1-8aec-9b3bd921aa9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>4440662f-92b6-477c-a39b-b79a37cf4e6f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=account/login')]</value>
-      <webElementGuid>63d2693a-a087-49de-88ed-5a0b0a821fc0</webElementGuid>
+      <value>//*/text()[normalize-space(.)='1 item(s) - £75.46']/parent::*</value>
+      <webElementGuid>30191027-d131-4a87-8090-c83953348e6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>14854de3-aa28-4559-8b73-3d3e05368d1d</webElementGuid>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>a58f8097-c8c4-45ce-b8fb-23eb8500a454</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>1deff6da-7747-4187-a753-5a3b1f5320f3</webElementGuid>
+      <value>//span[@id = 'cart-total' and (text() = '1 item(s) - £75.46' or . = '1 item(s) - £75.46')]</value>
+      <webElementGuid>05fca850-874c-4ee8-b7bd-a7282642afeb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

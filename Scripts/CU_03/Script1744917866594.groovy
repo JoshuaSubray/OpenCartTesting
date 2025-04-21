@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.opencart.com.gr/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/i_Ex Tax 101.00_fa fa-shopping-cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/a_Contact Us'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/span_1 item(s) - 75.46'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/button_1 item(s) - 75.46'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/button_1 item(s) - 75.46'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/strong_View Cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/a_Contact Us'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/button_1 item(s) - 75.46'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/i_Checkout_fa fa-share'))
+
+WebUI.click(findTestObject('Object Repository/Page_Checkout/button_1 item(s) - 75.46'))
+
+WebUI.click(findTestObject('Object Repository/Page_Checkout/strong_Checkout'))
+
+WebUI.click(findTestObject('Object Repository/Page_Checkout/a_Contact Us'))
+

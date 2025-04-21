@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_E-Mail Address_email</name>
+   <name>input_Remove_btn btn-primary btn-block</name>
    <tag></tag>
-   <elementGuidId>d67be57d-f6fb-4940-af0e-923235dddbb8</elementGuidId>
+   <elementGuidId>c786cd76-7356-494d-816d-4a16caec4bc5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='input-email']</value>
+         <value>(//input[@value='Add to Cart'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#input-email</value>
+         <value>td:nth-of-type(3) > input.btn.btn-primary.btn-block</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;E-Mail Address&quot;i]</value>
+         <value>internal:role=button[name=&quot;Add to Cart&quot;i] >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8f8fe50c-b782-478f-a8d7-0dc700085c9a</webElementGuid>
+      <webElementGuid>8343d05b-776e-47b7-a49e-2c291695fd36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>62255297-0186-461a-abeb-e928614f8bea</webElementGuid>
+      <value>button</value>
+      <webElementGuid>7db768d4-fb14-4e25-a42c-e557ae9c8a28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>value</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>7c93f434-8b30-4de2-9c7d-ed74f3f29f4f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>E-Mail Address</value>
-      <webElementGuid>f2c6d8ac-e941-494c-966b-c783e4066977</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>input-email</value>
-      <webElementGuid>5cf3d539-cca9-43ab-a58c-65cbaa6ac25e</webElementGuid>
+      <value>Add to Cart</value>
+      <webElementGuid>23abcd3e-7346-4e57-8b4d-9946cc6164e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>4af15236-8da9-4366-9912-270313893bd2</webElementGuid>
+      <value>btn btn-primary btn-block</value>
+      <webElementGuid>69364012-bcf1-4545-a281-e9b0cef03879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>cart.add('43', '1');</value>
+      <webElementGuid>a52a31f8-ca3a-43c7-a9c9-782656080040</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-email&quot;)</value>
-      <webElementGuid>3e5b472c-b9eb-449d-9f21-66798bc16ad0</webElementGuid>
+      <value>id(&quot;content&quot;)/table[@class=&quot;table table-bordered&quot;]/tbody[4]/tr[1]/td[3]/input[@class=&quot;btn btn-primary btn-block&quot;]</value>
+      <webElementGuid>d75b9e07-560e-4ddc-8e7f-ad63e1924e4c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-email']</value>
-      <webElementGuid>385e635e-9c34-4264-b586-ed14f7af0979</webElementGuid>
+      <value>(//input[@value='Add to Cart'])[2]</value>
+      <webElementGuid>29e5ba88-0af2-4ee1-8c2b-4fa983924d6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content']/div/div[2]/div/form/div/input</value>
-      <webElementGuid>582a8d3c-63a4-43d3-ab7f-b78d76c0e499</webElementGuid>
+      <value>//div[@id='content']/table/tbody[4]/tr/td[3]/input</value>
+      <webElementGuid>3f031816-9c83-4b3b-88c2-026a06d3bf46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/input</value>
-      <webElementGuid>0ebe2a45-b11e-458c-8277-87898dd680c0</webElementGuid>
+      <value>//td[3]/input</value>
+      <webElementGuid>d1b39d40-7006-4ce1-882c-09cb7ede4dfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'email' and @placeholder = 'E-Mail Address' and @id = 'input-email']</value>
-      <webElementGuid>ae619ccf-c7d7-4632-a56f-126a9f02c507</webElementGuid>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>e0fc86d1-1e01-44c8-80a8-3a441800b000</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

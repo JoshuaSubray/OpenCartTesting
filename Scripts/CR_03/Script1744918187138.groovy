@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.opencart.com.gr/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_Currency'))
+
+WebUI.doubleClick(findTestObject('Object Repository/Page_Your Store/a_Your Store'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_Currency'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_Pound Sterling'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/i_Ex Tax 61.86_fa fa-shopping-cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/button_1 item(s) - 75.46'))
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/strong_Checkout'))
+
+WebUI.click(findTestObject('Object Repository/Page_Checkout/a_Shopping Cart'))
+

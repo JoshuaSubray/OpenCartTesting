@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>a_iPhone</name>
    <tag></tag>
-   <elementGuidId>8eac27b2-1e40-45be-84fc-aeb37fc27ca2</elementGuidId>
+   <elementGuidId>77cc9131-58a4-4321-8fcd-973739dd6eaa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
+         <value>//div[@id='content']/div[2]/div[2]/div/div[2]/h4/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.dropdown-menu-right > li:nth-of-type(2) > a</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+         <value>internal:text=&quot;iPhone&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c66e7f31-103d-4cce-a5b1-45f31e85bdea</webElementGuid>
+      <webElementGuid>b5a3afd9-5dd5-4e69-855f-c7bc4b536034</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://demo.opencart.com.gr/index.php?route=account/login</value>
-      <webElementGuid>2171e167-4278-46a1-bb85-1c2c5a05ca3c</webElementGuid>
+      <value>https://demo.opencart.com.gr/index.php?route=product/product&amp;product_id=40</value>
+      <webElementGuid>6f294852-c4c1-4838-863d-23fc5b563276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>a408aa14-b616-408f-9a1e-1892e6440be8</webElementGuid>
+      <value>iPhone</value>
+      <webElementGuid>b1847a0d-3d7a-4338-8d09-801b1311949e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>107110e9-c003-4cfc-8894-b04d095b69c9</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;product-layout col-lg-3 col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;product-thumb transition&quot;]/div[@class=&quot;caption&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>2c95b36d-c285-4125-823c-3340876cedac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>74d611bb-47f8-4b67-856c-899ba86e5afc</webElementGuid>
+      <value>//div[@id='content']/div[2]/div[2]/div/div[2]/h4/a</value>
+      <webElementGuid>b67c6ca3-a431-4a69-b644-346f74bf1bdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>d29de61e-a2a0-4329-bbbf-673444807581</webElementGuid>
+      <value>//a[contains(text(),'iPhone')]</value>
+      <webElementGuid>5bb93795-9cfe-49f2-bc1b-8f71969183bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>7b540fc3-de4a-4ebd-8261-c8de9d93d943</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::a[2]</value>
+      <webElementGuid>739ab66f-9cc3-42df-89f2-472434566fb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>a040a3a3-4435-4582-bb48-968a224c1059</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: £306.25'])[1]/following::a[2]</value>
+      <webElementGuid>d6c7121b-20bb-40cd-bc43-a2f2036e7f35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (2)'])[1]/preceding::a[1]</value>
-      <webElementGuid>808ba173-8de9-4ed8-b188-b9644aaae85b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ex Tax: £61.86'])[1]/preceding::a[1]</value>
+      <webElementGuid>2a48c98a-555a-468b-8b78-90cfa1c88905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>007e53ba-aed1-444b-b062-a9db2f01979b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[2]/preceding::a[1]</value>
+      <webElementGuid>ff8de365-a7bc-4308-8579-4209628d268f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>4440662f-92b6-477c-a39b-b79a37cf4e6f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='iPhone']/parent::*</value>
+      <webElementGuid>c9c74244-d1cd-4a0d-bccc-cdf052e7adf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=account/login')]</value>
-      <webElementGuid>63d2693a-a087-49de-88ed-5a0b0a821fc0</webElementGuid>
+      <value>(//a[contains(@href, 'https://demo.opencart.com.gr/index.php?route=product/product&amp;product_id=40')])[2]</value>
+      <webElementGuid>cc436208-615d-4a86-9458-d3137d9a2063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>14854de3-aa28-4559-8b73-3d3e05368d1d</webElementGuid>
+      <value>//div[2]/div/div[2]/h4/a</value>
+      <webElementGuid>be57a5d4-19a9-4f52-adc3-9bf0f2094eac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>1deff6da-7747-4187-a753-5a3b1f5320f3</webElementGuid>
+      <value>//a[@href = 'https://demo.opencart.com.gr/index.php?route=product/product&amp;product_id=40' and (text() = 'iPhone' or . = 'iPhone')]</value>
+      <webElementGuid>67c8811b-220f-43e2-a722-f4c9db4574bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

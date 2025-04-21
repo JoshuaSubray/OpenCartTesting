@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demo.opencart.com.gr/')
+
+WebUI.click(findTestObject('Object Repository/Page_Your Store/a_Contact Us'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Contact Us/input_Your Name_name'), 'Name')
+
+WebUI.setText(findTestObject('Object Repository/Page_Contact Us/input_E-Mail Address_email'), 'e@e.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/fieldset_Contact Us                      Yo_0e235e'))
+
+WebUI.doubleClick(findTestObject('Object Repository/Page_Contact Us/fieldset_Contact Us                      Yo_0e235e'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Contact Us/textarea_1234'), 'Nice site.')
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/input_Enquiry_btn btn-primary'))
+
+WebUI.click(findTestObject('Object Repository/Page_Contact Us/a_Continue'))
+
