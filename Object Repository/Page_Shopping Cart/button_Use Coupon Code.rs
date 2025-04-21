@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_1 item(s) - 123.20</name>
+   <name>button_Use Coupon Code</name>
    <tag></tag>
-   <elementGuidId>839d7027-aa9c-42d8-960f-13b52b15d4fa</elementGuidId>
+   <elementGuidId>e4ff898f-917f-41c1-a093-45193be22e64</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-lg.btn-dark.d-block.dropdown-toggle.show</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; 1 item(s) - $123.20&quot;i]</value>
+         <value>internal:role=button[name=&quot;Use Coupon Code&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f97da63-e6b6-4a5b-9973-c3f801b55b00</webElementGuid>
+      <webElementGuid>5791262a-22ee-4624-b1ea-792faa1dd7d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,23 +37,31 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>88fcc7da-61b2-4244-882c-342bbcca6769</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-bs-toggle</name>
-      <type>Main</type>
-      <value>dropdown</value>
-      <webElementGuid>ef239ad2-ab65-4927-928a-cb873d692603</webElementGuid>
+      <webElementGuid>7537fc4a-da6e-4000-8bb2-3784c3070480</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-lg btn-dark d-block dropdown-toggle show</value>
-      <webElementGuid>f70f2913-7676-48d8-ae54-1ad4a056bed9</webElementGuid>
+      <value>accordion-button</value>
+      <webElementGuid>b4e90801-bcbe-4e04-b834-153379a4cb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>c77b91a7-2462-4260-b794-8c5f8d9525be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#collapse-coupon</value>
+      <webElementGuid>b54ffcbf-6eef-4a44-ad26-79d3897536ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,94 +69,94 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>50c84d04-fcfb-43df-88de-54deab730ecb</webElementGuid>
+      <webElementGuid>4142e6ca-2d2c-485c-910e-63932b15b318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> 1 item(s) - $123.20</value>
-      <webElementGuid>b7558d24-fa7c-406a-9233-cfd92446438f</webElementGuid>
+      <value>Use Coupon Code</value>
+      <webElementGuid>3f0ddf79-82a4-4115-97d5-da056e422a56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cart&quot;)/div[@class=&quot;dropdown d-grid&quot;]/button[@class=&quot;btn btn-lg btn-dark d-block dropdown-toggle show&quot;]</value>
-      <webElementGuid>27822f6d-87f8-4f6d-9545-13ff4c68ad06</webElementGuid>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;accordion-item&quot;]/h2[@class=&quot;accordion-header&quot;]/button[@class=&quot;accordion-button&quot;]</value>
+      <webElementGuid>ceaec3cc-fbb1-4deb-91a9-afe6ff8197ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>12c96762-a940-4e00-85b0-de3527ff9d97</webElementGuid>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>7dc92882-b2c8-4a73-9a22-336c5f8a389d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cart']/div/button</value>
-      <webElementGuid>47c28ed6-d270-46d7-8a16-966419feb801</webElementGuid>
+      <value>//div[@id='accordion']/div[2]/h2/button</value>
+      <webElementGuid>417dfa08-b923-46ec-9b61-ed570c80d460</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::button[2]</value>
-      <webElementGuid>23d47aea-5079-4a27-87a6-ca53fdfb41a2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Quotes'])[1]/following::button[1]</value>
+      <webElementGuid>a68bbc5c-9903-46b2-abee-095e998d5ce3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::button[2]</value>
-      <webElementGuid>ef2b0063-050b-4f47-add9-097413668cca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Post Code'])[1]/following::button[2]</value>
+      <webElementGuid>349c797a-6af5-49e1-8ff0-9a6b9b985fa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[2]/preceding::button[1]</value>
-      <webElementGuid>20e1f874-041f-48f3-ae80-6a0b368a3463</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your coupon here'])[1]/preceding::button[1]</value>
+      <webElementGuid>546230f8-096f-44f3-8963-4278f1cb2067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Model: product 11'])[1]/preceding::button[1]</value>
-      <webElementGuid>ce434c15-3a05-47c4-bb3a-5ae1848481ae</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Coupon'])[1]/preceding::button[1]</value>
+      <webElementGuid>33e093ed-146a-4b3c-afe4-98555d4d785d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='1 item(s) - $123.20']/parent::*</value>
-      <webElementGuid>756c4f2f-b091-4afd-bdb8-084a14107bed</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Use Coupon Code']/parent::*</value>
+      <webElementGuid>e2b3e3fd-1927-4b6a-af0a-9880e5f9c7d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/button</value>
-      <webElementGuid>27ce3be8-d3e8-4e25-b5b6-016301aa9cb6</webElementGuid>
+      <value>//div[2]/h2/button</value>
+      <webElementGuid>644d8519-34d2-44cc-a7a8-7b9116b97183</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' 1 item(s) - $123.20' or . = ' 1 item(s) - $123.20')]</value>
-      <webElementGuid>a92c90a4-0953-474f-bc3b-4060c691f5b7</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Use Coupon Code' or . = 'Use Coupon Code')]</value>
+      <webElementGuid>12e7836d-7b95-4a91-8794-8cef07eb40e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

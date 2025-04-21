@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Company_shipping_company</name>
+   <name>img_Checkout_img-fluid</name>
    <tag></tag>
-   <elementGuidId>baa8be2b-228d-4359-b4bb-57294fee31f1</elementGuidId>
+   <elementGuidId>06988eb1-df90-466b-99fb-0749adce0436</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#input-shipping-company</value>
+         <value>img.img-fluid</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='input-shipping-company']</value>
+         <value>//div[@id='logo']/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Company&quot;i]</value>
+         <value>internal:role=link[name=&quot;Your Store&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>47e78118-a3ab-444d-a2d7-5ccc36831f48</webElementGuid>
+      <value>img</value>
+      <webElementGuid>decbed66-655f-4303-b446-bf83eb58a008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>b1e0cb08-0697-4dce-bb10-838389a11d3e</webElementGuid>
+      <value>http://localhost/opencart41/upload/image/catalog/opencart-logo.png</value>
+      <webElementGuid>729fb9e8-5c92-4450-9a07-01ff138e1002</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>title</name>
       <type>Main</type>
-      <value>shipping_company</value>
-      <webElementGuid>5c09a1c5-c93a-4b85-a1b9-4cf48f2d2a82</webElementGuid>
+      <value>Your Store</value>
+      <webElementGuid>739bcf37-ee9a-4f90-b0f1-4484000dedee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>Company</value>
-      <webElementGuid>28a3b9e9-d08f-4d28-aa15-353b5e5a9e03</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>input-shipping-company</value>
-      <webElementGuid>e81db0d5-2c65-4b7f-bf39-b1203003ac68</webElementGuid>
+      <value>Your Store</value>
+      <webElementGuid>35c9bb20-3ddb-4c13-ba4e-36771a7e3430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>2ec08311-5e59-4faa-8034-ba001c5beab3</webElementGuid>
+      <value>img-fluid</value>
+      <webElementGuid>d7ae987b-08cc-457e-87c6-9f81fa796eee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-shipping-company&quot;)</value>
-      <webElementGuid>c860b2d9-32f0-4f8b-9cb6-70870666a71d</webElementGuid>
+      <value>id(&quot;logo&quot;)/a[1]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>2d790830-b827-45b9-a506-ec8de04588df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='input-shipping-company']</value>
-      <webElementGuid>0b5c84e9-381f-43fb-99f3-e4db1e9e1dff</webElementGuid>
+      <value>//div[@id='logo']/a/img</value>
+      <webElementGuid>50529705-eb53-4421-ac7d-c0cca9c62b46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>//fieldset[@id='shipping-address']/div/div/input</value>
-      <webElementGuid>99841b30-1442-42b2-bf44-ab7357173a11</webElementGuid>
+      <value>//img[@alt='Your Store']</value>
+      <webElementGuid>d29b3b94-6517-40e7-a52d-1353a320e6e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//fieldset[2]/div/div/input</value>
-      <webElementGuid>ceca6a30-5f2c-4efd-8cec-59702051a439</webElementGuid>
+      <value>//img</value>
+      <webElementGuid>6fdd3e35-e540-44fd-9a0b-4a6af2062327</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'shipping_company' and @placeholder = 'Company' and @id = 'input-shipping-company']</value>
-      <webElementGuid>e8bd92af-a162-4ea3-a386-164113c0153f</webElementGuid>
+      <value>//img[@src = 'http://localhost/opencart41/upload/image/catalog/opencart-logo.png' and @title = 'Your Store' and @alt = 'Your Store']</value>
+      <webElementGuid>cdc89a7a-e43e-4aab-8435-9533a29a1017</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

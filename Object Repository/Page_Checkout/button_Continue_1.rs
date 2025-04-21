@@ -6,12 +6,12 @@
    <elementGuidId>52f41994-e8f6-452e-8320-fed51d8ed3dd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='button-shipping-method']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#button-shipping-method</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button-shipping-method']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>909be034-307a-469b-a22b-81a3fff38ac7</webElementGuid>
+      <webElementGuid>e928ceab-d625-4d28-bf0b-4219d8c0c683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8f3c3cc0-6952-4772-8343-0fd46df61781</webElementGuid>
+      <webElementGuid>e16b7cd1-dc01-45fd-a6d2-49f66c6a3eff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>button-shipping-method</value>
-      <webElementGuid>6b12745d-3efa-4d27-838e-6413dbd77b98</webElementGuid>
+      <webElementGuid>fa1c1627-2c0e-4c6d-a612-70ddeea0d248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>9e7bae18-a4e1-413b-afd5-4c1749691223</webElementGuid>
+      <webElementGuid>02e3c09c-bbb7-4409-9ac3-c972b31ad8f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>c5653484-a4f6-4a98-9dcd-aabcc1e746dc</webElementGuid>
+      <webElementGuid>c99a5012-75de-4d10-93f2-997bf9620866</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;button-shipping-method&quot;)</value>
-      <webElementGuid>8e7fafe9-3048-425e-82f6-e7a3425a99fc</webElementGuid>
+      <webElementGuid>04231e5b-2665-4953-b68c-ea3431b4935f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='button-shipping-method']</value>
-      <webElementGuid>b002778d-465a-4a3e-bd5b-0fe28ae892f8</webElementGuid>
+      <webElementGuid>1116dbcc-4f68-428b-bf8e-de8db4864699</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-shipping-method']/div[2]/button</value>
-      <webElementGuid>adf554bf-c4b2-4145-a8ef-3d1f083bfa09</webElementGuid>
+      <webElementGuid>544b80ee-bd76-488a-ab43-1f949d0b903e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Shipping Rate - $5.00'])[1]/following::button[1]</value>
-      <webElementGuid>1837b31f-df8c-41be-8eb0-1a99b103df5c</webElementGuid>
+      <webElementGuid>0145e0d9-7b70-42b0-a4a0-28c5c52be6d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Rate'])[1]/following::button[1]</value>
-      <webElementGuid>4f57074a-e3b4-4164-a55c-767ea088605d</webElementGuid>
+      <webElementGuid>56a7ca72-c952-468f-ba72-797c02d64b29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>0a1d0db9-865c-4704-b6a2-423f4d25707e</webElementGuid>
+      <webElementGuid>890b312d-2877-4403-b5c2-c28d6efa651a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,70 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'button-shipping-method' and (text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>26621e80-f634-4a02-9aaa-0ed77cf315a6</webElementGuid>
+      <webElementGuid>c848915e-e296-419b-9ac8-202d835b5119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='button-payment-method']</value>
+      <webElementGuid>6967c1a5-c68b-4d40-9b64-606af1f8f8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-payment-method']/div[2]/button</value>
+      <webElementGuid>1e88cce5-0fca-49a6-9b28-d070094eb275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash On Delivery'])[2]/following::button[1]</value>
+      <webElementGuid>7dd450f0-cb86-478a-8f52-0f1832b3420a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash On Delivery'])[1]/following::button[1]</value>
+      <webElementGuid>a93c5d80-168c-4604-ac5a-9ff73e944217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div[2]/button</value>
+      <webElementGuid>22fc7cd6-5ede-44bb-9f61-6ac628795e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'button-payment-method' and (text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>24fa9f5a-09de-48aa-992f-28845286d451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Shipping Rate - $8.00'])[1]/following::button[1]</value>
+      <webElementGuid>47e880c3-598f-4c1e-9b18-8ba24b64dcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div[2]/button</value>
+      <webElementGuid>cde87a82-1d44-42f0-87db-404874c05dad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

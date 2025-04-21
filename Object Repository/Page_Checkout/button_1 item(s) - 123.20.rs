@@ -3,7 +3,7 @@
    <description></description>
    <name>button_1 item(s) - 123.20</name>
    <tag></tag>
-   <elementGuidId>839d7027-aa9c-42d8-960f-13b52b15d4fa</elementGuidId>
+   <elementGuidId>6ded5c17-8108-40fe-af2e-20b0000f6d6f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f97da63-e6b6-4a5b-9973-c3f801b55b00</webElementGuid>
+      <webElementGuid>c3d80253-58e3-408b-8763-b3e4c6f135fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>88fcc7da-61b2-4244-882c-342bbcca6769</webElementGuid>
+      <webElementGuid>3dfc0e46-87d7-4e2d-bb09-94dcde842d07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>ef239ad2-ab65-4927-928a-cb873d692603</webElementGuid>
+      <webElementGuid>512e3219-cdc8-4422-8ebf-265881790adf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg btn-dark d-block dropdown-toggle show</value>
-      <webElementGuid>f70f2913-7676-48d8-ae54-1ad4a056bed9</webElementGuid>
+      <webElementGuid>5a6ad77e-6fc7-464a-a556-47b0b233d9f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>50c84d04-fcfb-43df-88de-54deab730ecb</webElementGuid>
+      <webElementGuid>84145a8c-cf13-493c-b0c8-2456ae7bb092</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value> 1 item(s) - $123.20</value>
-      <webElementGuid>b7558d24-fa7c-406a-9233-cfd92446438f</webElementGuid>
+      <webElementGuid>f1536ecb-9abe-4bdc-a7e7-0a8d76ae0d6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,15 +77,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cart&quot;)/div[@class=&quot;dropdown d-grid&quot;]/button[@class=&quot;btn btn-lg btn-dark d-block dropdown-toggle show&quot;]</value>
-      <webElementGuid>27822f6d-87f8-4f6d-9545-13ff4c68ad06</webElementGuid>
+      <webElementGuid>78defa20-e338-4f3a-a003-0733a244021f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>12c96762-a940-4e00-85b0-de3527ff9d97</webElementGuid>
+      <value>//button[@type='button']</value>
+      <webElementGuid>7b21f320-b444-438d-b373-786098d98465</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cart']/div/button</value>
-      <webElementGuid>47c28ed6-d270-46d7-8a16-966419feb801</webElementGuid>
+      <webElementGuid>97b3320c-d6b9-4106-b4d9-83cdf1366f91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::button[2]</value>
-      <webElementGuid>23d47aea-5079-4a27-87a6-ca53fdfb41a2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[2]/following::button[2]</value>
+      <webElementGuid>ec6f1c6a-5796-4be4-bfb4-e3abb099cce3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,15 +109,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::button[2]</value>
-      <webElementGuid>ef2b0063-050b-4f47-add9-097413668cca</webElementGuid>
+      <webElementGuid>2cb0a2c2-ba18-442c-8d20-ef5fea70ee95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[2]/preceding::button[1]</value>
-      <webElementGuid>20e1f874-041f-48f3-ae80-6a0b368a3463</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[1]/preceding::button[1]</value>
+      <webElementGuid>dfd88db7-65fa-46ee-9032-c0b93281db52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='- Model: product 11'])[1]/preceding::button[1]</value>
-      <webElementGuid>ce434c15-3a05-47c4-bb3a-5ae1848481ae</webElementGuid>
+      <webElementGuid>a6bc45b6-7af4-40ca-9496-df8b36f74854</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,15 +133,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1 item(s) - $123.20']/parent::*</value>
-      <webElementGuid>756c4f2f-b091-4afd-bdb8-084a14107bed</webElementGuid>
+      <webElementGuid>5b147de8-5a2d-4e44-9e43-99eba3841bfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/button</value>
-      <webElementGuid>27ce3be8-d3e8-4e25-b5b6-016301aa9cb6</webElementGuid>
+      <value>//div/button</value>
+      <webElementGuid>147ac8ff-91b5-4184-8816-28e867cee697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' 1 item(s) - $123.20' or . = ' 1 item(s) - $123.20')]</value>
-      <webElementGuid>a92c90a4-0953-474f-bc3b-4060c691f5b7</webElementGuid>
+      <webElementGuid>73de84e9-897a-48f4-b190-8c08ea1e2972</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

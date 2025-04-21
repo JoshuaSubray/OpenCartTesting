@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Checkout</name>
+   <name>button_Login</name>
    <tag></tag>
-   <elementGuidId>ca96e49d-ac7b-4c3d-accf-1eb96f4b1808</elementGuidId>
+   <elementGuidId>c6f650e9-8a50-4fee-af5c-76f195df4484</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a[title=&quot;Checkout&quot;] > span.d-none.d-lg-inline</value>
+         <value>button.btn.btn-primary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//nav[@id='top']/div/div/div[2]/ul/li[5]/a/span</value>
+         <value>(//button[@type='submit'])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Checkout&quot;i]</value>
+         <value>internal:role=button[name=&quot;Login&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>b47444f7-2bdb-4807-99fe-c5e33b9e54f2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>619a7031-3e4c-4d3b-a69e-c6351692f04d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>f385100c-161d-4dbb-a035-bd2226cf6566</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>d-none d-lg-inline</value>
-      <webElementGuid>e4445b8f-9fb6-45cf-980a-e78c2c96e04a</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>72720960-f0fb-443d-8b9d-f9cf8550abe5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Checkout</value>
-      <webElementGuid>86dface9-a53f-4b03-9271-a5062ef7fb53</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>18a71869-9cdd-4f39-ae8a-017c67959dc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col text-end&quot;]/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;list-inline-item&quot;]/a[1]/span[@class=&quot;d-none d-lg-inline&quot;]</value>
-      <webElementGuid>75ebe9bb-b419-4fad-977c-5189743019a3</webElementGuid>
+      <value>id(&quot;form-login&quot;)/div[@class=&quot;text-end&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>c0ec0d06-576f-4846-a95f-82b5c81c5188</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>598b9883-61a2-47bf-b27a-2d30b8e9434d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//nav[@id='top']/div/div/div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>1222663f-f270-4fc6-b995-cb95b30333a5</webElementGuid>
+      <value>//form[@id='form-login']/div[3]/button</value>
+      <webElementGuid>8d2de549-6887-4bfb-aa47-f7f6a5de0625</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::span[1]</value>
-      <webElementGuid>a0433567-6d6d-4e62-b19c-bb2d17d4d0a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten Password'])[1]/following::button[1]</value>
+      <webElementGuid>cfcc048a-bd89-4d7d-9b88-6ed429356098</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/following::span[2]</value>
-      <webElementGuid>f0f1cbaa-d841-48dd-9cb5-6d4301a8e25e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>dd2d28bb-fad7-4ee4-9b4e-7ed4c1655974</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[2]/preceding::span[1]</value>
-      <webElementGuid>b1684711-bb9d-49af-a799-0d67f772ca68</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[4]/preceding::button[1]</value>
+      <webElementGuid>4c75cc92-7005-4240-8e23-0fcaa47bb623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Model: product 11'])[1]/preceding::span[1]</value>
-      <webElementGuid>3753ca48-ed4c-483a-b847-6c7091bb85f9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Checkout']/parent::*</value>
-      <webElementGuid>614f313b-ea1f-4d7a-a432-1c73ed7af1fe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[2]/preceding::button[1]</value>
+      <webElementGuid>2ce1656f-128c-4431-8e85-82976da60c8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a/span</value>
-      <webElementGuid>06575a5a-21ec-47f1-a44a-ed036aac16aa</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>b22253da-e434-4480-88ad-0a7dcd717177</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Checkout' or . = 'Checkout')]</value>
-      <webElementGuid>97f77f9e-3c58-4286-af79-843ec02e9d3b</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>3ab836ba-cd10-4d24-8135-7465bbd0902a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[1]/preceding::span[1]</value>
-      <webElementGuid>404cbc66-4555-4b38-9c61-0db0b30411da</webElementGuid>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>64684e25-a6da-41bd-94e4-657ba28a83ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

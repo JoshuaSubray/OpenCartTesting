@@ -6,12 +6,12 @@
    <elementGuidId>69f87ae7-063e-48c4-94bc-57b66028ff9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='input-shipping-zone']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#input-shipping-zone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='input-shipping-zone']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f10c21bd-3b3e-4484-af40-5b7c3d6c3a9b</webElementGuid>
+      <webElementGuid>3c9633a2-a173-4b16-bd31-bc6f9be61b3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>shipping_zone_id</value>
-      <webElementGuid>95a0292d-d3e6-4ce3-a281-b3990d2a0fee</webElementGuid>
+      <webElementGuid>50beb57b-cde7-41f9-a1f9-9372815866e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-shipping-zone</value>
-      <webElementGuid>6a10afab-e7ef-4a12-b2f9-521105f8dcdf</webElementGuid>
+      <webElementGuid>ae6cf3b1-66f2-417f-aed8-4104061c39c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select</value>
-      <webElementGuid>2718bc0a-64c1-4add-a720-a1075b33766f</webElementGuid>
+      <webElementGuid>4cf59981-174a-4f67-b540-a85cad1657c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-oc-value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>926bbf25-a2cc-4f86-89be-ca82eeeaa0e9</webElementGuid>
+      <webElementGuid>25fb1bc8-902d-45e2-b1fe-9424370a55f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -178,7 +178,7 @@
                       Worcestershire
                       Wrexham
                   </value>
-      <webElementGuid>3562d00b-ced6-4f3e-8af6-5e7f992264d3</webElementGuid>
+      <webElementGuid>a1d21f3c-bd15-4020-b335-88c7c4f32786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -186,7 +186,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-shipping-zone&quot;)</value>
-      <webElementGuid>4914b6c2-9f65-4d2c-a795-3281e9ea7b0a</webElementGuid>
+      <webElementGuid>9d7182d2-3466-4757-8a7a-4a4f0110d541</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -194,7 +194,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='input-shipping-zone']</value>
-      <webElementGuid>07ca2159-8fe4-4cd0-a708-49c27358dd80</webElementGuid>
+      <webElementGuid>969d02d4-aaf6-4746-b7ee-0845187cb8ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -202,7 +202,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//fieldset[@id='shipping-address']/div/div[7]/select</value>
-      <webElementGuid>c31e520d-a0ba-48e7-8f7f-f6e7e5daa22f</webElementGuid>
+      <webElementGuid>23e2b0cb-fcad-4e59-ad27-601811a76738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -210,7 +210,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Region / State'])[1]/following::select[1]</value>
-      <webElementGuid>eb38bdd3-641c-476b-bdaa-ad61746a0b1e</webElementGuid>
+      <webElementGuid>7c3cca77-aab8-451d-857a-4dcfa5abe7aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -218,7 +218,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::select[2]</value>
-      <webElementGuid>82af357d-dbae-4a9a-8687-646cd1461581</webElementGuid>
+      <webElementGuid>71387394-1675-4f82-b859-6ec1cd981089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -226,7 +226,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Password'])[1]/preceding::select[1]</value>
-      <webElementGuid>36ec912a-6969-4390-986f-6fa12dbec4f8</webElementGuid>
+      <webElementGuid>c9d854c6-2c7f-42f3-a2bc-bd719994977e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -234,7 +234,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::select[1]</value>
-      <webElementGuid>f98c5baa-fba3-4172-b208-c375793ed962</webElementGuid>
+      <webElementGuid>95a8fd97-2e7a-4314-bf73-b693d40156ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -242,7 +242,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/select</value>
-      <webElementGuid>35fac096-9bea-4592-92a1-ad3a29006778</webElementGuid>
+      <webElementGuid>9f1b13f0-d7b5-419d-bd06-93e4c7288921</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -468,6 +468,6 @@
                       Worcestershire
                       Wrexham
                   ')]</value>
-      <webElementGuid>9ddcd0f2-92f4-4fd4-a6f5-8740af699a13</webElementGuid>
+      <webElementGuid>5763f8f3-54ae-4164-a7fc-e25b132b278e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

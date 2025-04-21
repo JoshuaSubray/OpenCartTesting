@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Company_shipping_company</name>
+   <name>input_Password_password</name>
    <tag></tag>
-   <elementGuidId>baa8be2b-228d-4359-b4bb-57294fee31f1</elementGuidId>
+   <elementGuidId>4aa6a90c-6cae-4721-88a6-ce980410c7aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#input-shipping-company</value>
+         <value>#input-password</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='input-shipping-company']</value>
+         <value>//input[@id='input-password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Company&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Password&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>47e78118-a3ab-444d-a2d7-5ccc36831f48</webElementGuid>
+      <webElementGuid>1bee15fc-20e9-4a35-8eb3-d2bfb0f6b3aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>b1e0cb08-0697-4dce-bb10-838389a11d3e</webElementGuid>
+      <value>password</value>
+      <webElementGuid>7d8c2ce2-7aa8-454c-b86e-cae1fb7ae8c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>shipping_company</value>
-      <webElementGuid>5c09a1c5-c93a-4b85-a1b9-4cf48f2d2a82</webElementGuid>
+      <value>password</value>
+      <webElementGuid>bfca9b06-8d7b-4a0d-a2b1-3bac0290e06a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Company</value>
-      <webElementGuid>28a3b9e9-d08f-4d28-aa15-353b5e5a9e03</webElementGuid>
+      <value>Password</value>
+      <webElementGuid>1bde8a98-7e2d-412f-8ca0-95651fad2acb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-shipping-company</value>
-      <webElementGuid>e81db0d5-2c65-4b7f-bf39-b1203003ac68</webElementGuid>
+      <value>input-password</value>
+      <webElementGuid>0d4f1174-a685-4650-b74b-37d806be2137</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>2ec08311-5e59-4faa-8034-ba001c5beab3</webElementGuid>
+      <value>form-control mb-1</value>
+      <webElementGuid>813f544b-f196-47e3-b74b-257750ab56a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-shipping-company&quot;)</value>
-      <webElementGuid>c860b2d9-32f0-4f8b-9cb6-70870666a71d</webElementGuid>
+      <value>id(&quot;input-password&quot;)</value>
+      <webElementGuid>9847b15e-29e9-419a-a244-fce8065474e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-shipping-company']</value>
-      <webElementGuid>0b5c84e9-381f-43fb-99f3-e4db1e9e1dff</webElementGuid>
+      <value>//input[@id='input-password']</value>
+      <webElementGuid>7ecc3a93-a630-474b-a8d6-0a1c30f9b61d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//fieldset[@id='shipping-address']/div/div/input</value>
-      <webElementGuid>99841b30-1442-42b2-bf44-ab7357173a11</webElementGuid>
+      <value>//form[@id='form-login']/div[2]/input</value>
+      <webElementGuid>72f0665b-d766-422e-bb1c-0fceec281d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//fieldset[2]/div/div/input</value>
-      <webElementGuid>ceca6a30-5f2c-4efd-8cec-59702051a439</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>dade75a0-c1e9-41e2-8a63-006f6d0e667e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'shipping_company' and @placeholder = 'Company' and @id = 'input-shipping-company']</value>
-      <webElementGuid>e8bd92af-a162-4ea3-a386-164113c0153f</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Password' and @id = 'input-password']</value>
+      <webElementGuid>0a165268-98a3-49ea-ab6d-2bbc003d3adb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

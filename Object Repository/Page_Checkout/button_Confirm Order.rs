@@ -6,12 +6,12 @@
    <elementGuidId>d460eeea-4d93-4f82-935b-1bb44f7c63ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='button-confirm']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#button-confirm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button-confirm']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>09fd690a-34c3-4ddb-8a77-d39b6ee5e494</webElementGuid>
+      <webElementGuid>766023e3-1bda-49d6-b580-91f047ca6353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>791249f3-9c93-40c3-90fb-98e27aec43c6</webElementGuid>
+      <webElementGuid>6c73890f-09fe-40e8-ad93-68293f941b03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>button-confirm</value>
-      <webElementGuid>e67a5b43-883c-49a8-aef8-e09dd38a6de7</webElementGuid>
+      <webElementGuid>5da72768-7d58-4052-9764-7079f05fb907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>13dce14e-c1ca-4427-9219-1d6464e30860</webElementGuid>
+      <webElementGuid>f9c2df10-9262-4419-8080-75d13dbf4d92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm Order</value>
-      <webElementGuid>a1f6dacb-2d69-47af-99c6-5eb829d7fbf7</webElementGuid>
+      <webElementGuid>26988466-92d3-45cc-a845-2abbf8f2844a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;button-confirm&quot;)</value>
-      <webElementGuid>62325906-ca2b-4146-815c-aa0c617d9202</webElementGuid>
+      <webElementGuid>3dfa43db-598a-4dcd-a286-73067dbf8b83</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='button-confirm']</value>
-      <webElementGuid>70e9a0b1-401b-4f09-ad0d-baabce78b719</webElementGuid>
+      <webElementGuid>b5b4535f-0d38-4413-8b5e-319b9e3ca4dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,87 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout-payment']/div/button</value>
-      <webElementGuid>2690ba6e-9176-4957-b40f-1817d792048f</webElementGuid>
+      <webElementGuid>6367d6dc-b95b-445e-a5ad-afbbddeb5aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$96.00'])[2]/following::button[1]</value>
+      <webElementGuid>1bc71db0-ea90-4317-b2be-589e43574191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[3]/following::button[1]</value>
+      <webElementGuid>c354073f-f70f-43f6-9e34-572a5894e59c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::button[1]</value>
+      <webElementGuid>e4d889b0-96f3-47ce-8efa-22a3c3add420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::button[1]</value>
+      <webElementGuid>6de67309-0da0-4c55-b708-a9ec925b3744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm Order']/parent::*</value>
+      <webElementGuid>b2a53f15-2b26-4894-8e69-a73d0dae127f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/button</value>
+      <webElementGuid>15aade27-9ed1-43e7-aa34-3ecf49fdcc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'button-confirm' and (text() = 'Confirm Order' or . = 'Confirm Order')]</value>
+      <webElementGuid>910fede3-f040-4d2b-9623-bb468571a974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$131.20'])[2]/following::button[1]</value>
+      <webElementGuid>51a7d6bd-9fb5-46bc-ba9b-3ad624a1c312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>da75fe4a-d239-4268-8b09-06f5c8e9f6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$254.40'])[2]/following::button[1]</value>
+      <webElementGuid>cef93cdc-2e9a-4390-9fa8-99917efbb3fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,53 +174,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$106.00'])[2]/following::button[1]</value>
       <webElementGuid>dd946e3d-8c76-4f94-8d45-d55b38c1adf6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[3]/following::button[1]</value>
-      <webElementGuid>7df92fc4-b91e-4623-b2cd-af39cb21446a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::button[1]</value>
-      <webElementGuid>984b4256-50cc-4c44-9137-475655a24788</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::button[1]</value>
-      <webElementGuid>63716a2a-1b5c-4b28-9c77-53a7ac37a349</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Confirm Order']/parent::*</value>
-      <webElementGuid>20cf0dbd-763e-4008-92c4-9c9c54ae7a76</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div[2]/div/button</value>
-      <webElementGuid>acd64a9c-e3ed-40cb-930a-fb7e7e7cfae8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'button-confirm' and (text() = 'Confirm Order' or . = 'Confirm Order')]</value>
-      <webElementGuid>624dd807-9575-445e-9cc8-07f37ffd908f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

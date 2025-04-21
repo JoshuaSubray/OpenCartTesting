@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Company_shipping_company</name>
+   <name>input_Address 1_address_1</name>
    <tag></tag>
-   <elementGuidId>baa8be2b-228d-4359-b4bb-57294fee31f1</elementGuidId>
+   <elementGuidId>cfeff91d-631c-42c4-bbf3-660a222da751</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#input-shipping-company</value>
+         <value>#input-shipping-address-1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='input-shipping-company']</value>
+         <value>//input[@id='input-shipping-address-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Company&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Address 1&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>47e78118-a3ab-444d-a2d7-5ccc36831f48</webElementGuid>
+      <webElementGuid>5afdb91b-32c3-40bb-a25e-f5b248352945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,31 +37,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b1e0cb08-0697-4dce-bb10-838389a11d3e</webElementGuid>
+      <webElementGuid>c7a4fa3b-801c-49fa-898a-b2f8bbddb5be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>shipping_company</value>
-      <webElementGuid>5c09a1c5-c93a-4b85-a1b9-4cf48f2d2a82</webElementGuid>
+      <value>address_1</value>
+      <webElementGuid>dabf030e-8376-4b1e-bf99-940a2349c1de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Company</value>
-      <webElementGuid>28a3b9e9-d08f-4d28-aa15-353b5e5a9e03</webElementGuid>
+      <value>Address 1</value>
+      <webElementGuid>6833642e-c1b3-4c28-b7e5-1d2823c0851d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-shipping-company</value>
-      <webElementGuid>e81db0d5-2c65-4b7f-bf39-b1203003ac68</webElementGuid>
+      <value>input-shipping-address-1</value>
+      <webElementGuid>f8eb69e8-cd59-4d8f-a4e5-6405a29e3757</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,46 +69,46 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2ec08311-5e59-4faa-8034-ba001c5beab3</webElementGuid>
+      <webElementGuid>72a942dd-e9af-4007-9c7b-29559cdb5471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-shipping-company&quot;)</value>
-      <webElementGuid>c860b2d9-32f0-4f8b-9cb6-70870666a71d</webElementGuid>
+      <value>id(&quot;input-shipping-address-1&quot;)</value>
+      <webElementGuid>46f4c4fc-34f5-4e4d-9815-cf1866f7d437</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-shipping-company']</value>
-      <webElementGuid>0b5c84e9-381f-43fb-99f3-e4db1e9e1dff</webElementGuid>
+      <value>//input[@id='input-shipping-address-1']</value>
+      <webElementGuid>02f04122-d409-4c86-941f-4d2812f77b95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//fieldset[@id='shipping-address']/div/div/input</value>
-      <webElementGuid>99841b30-1442-42b2-bf44-ab7357173a11</webElementGuid>
+      <value>//form[@id='form-shipping-address']/div/div[4]/input</value>
+      <webElementGuid>504afc68-a01a-4c8d-8abe-b197d0168b61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//fieldset[2]/div/div/input</value>
-      <webElementGuid>ceca6a30-5f2c-4efd-8cec-59702051a439</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>68369d66-51d8-49e1-aec0-d53d682f93ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'shipping_company' and @placeholder = 'Company' and @id = 'input-shipping-company']</value>
-      <webElementGuid>e8bd92af-a162-4ea3-a386-164113c0153f</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'address_1' and @placeholder = 'Address 1' and @id = 'input-shipping-address-1']</value>
+      <webElementGuid>c7f5431b-9ed9-43fd-82c8-fc1507fe5208</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

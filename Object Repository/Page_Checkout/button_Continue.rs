@@ -6,12 +6,12 @@
    <elementGuidId>e1793bc9-d20c-4862-a356-ddd7fa5a5a27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='button-register']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#button-register</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button-register']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8f96f57-0419-47f3-9f27-829bef05f12f</webElementGuid>
+      <webElementGuid>649de4cf-26f9-4da4-8b0d-92e1f675983a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>9a6f78fd-8418-401a-b7b0-88d9a3ed92c2</webElementGuid>
+      <webElementGuid>f77e616e-6c40-46f5-97b9-7a9dd10aa1ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>button-register</value>
-      <webElementGuid>47ff4f4f-d719-4d31-8e1d-23bbbec22d80</webElementGuid>
+      <webElementGuid>5776cb81-366e-4ca0-b3eb-eb175ddf93d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary mt-2</value>
-      <webElementGuid>20c56c85-98ed-4d3c-a90b-4048076f2cb4</webElementGuid>
+      <webElementGuid>563f5430-72fd-4e1f-96e8-7e6192601113</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>8452662e-1773-409b-ab9e-48b0c4949a4b</webElementGuid>
+      <webElementGuid>b20cadca-e2a5-466c-a5d1-c450d6904265</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;button-register&quot;)</value>
-      <webElementGuid>b2e07809-9089-46d9-83d6-c56a7661d2ed</webElementGuid>
+      <webElementGuid>195b320f-dc18-4ba7-8626-1206e4133a3d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='button-register']</value>
-      <webElementGuid>46735361-06ae-479b-a265-270eec01a6dd</webElementGuid>
+      <webElementGuid>724ae1ae-7c88-4d67-91b7-0b394ee8f163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-register']/div[2]/div/button</value>
-      <webElementGuid>03996179-9715-4763-a92f-1532da160003</webElementGuid>
+      <webElementGuid>96ce610a-5b4c-44fd-aed3-436379f043b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::button[1]</value>
-      <webElementGuid>48bcc04e-7f9e-4bb5-9cdf-875df4b27f6e</webElementGuid>
+      <webElementGuid>7d97f327-3c03-4f5c-b3cb-36ff7df28ac9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Method'])[1]/preceding::button[1]</value>
-      <webElementGuid>664aaf4e-8a10-42ec-a46e-726fc7c9e172</webElementGuid>
+      <webElementGuid>3261da26-1f5c-4994-8e1d-0bdafd18487c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[1]/preceding::button[1]</value>
-      <webElementGuid>242b8784-7bd4-4c80-b97e-d8e200cd0703</webElementGuid>
+      <webElementGuid>9c0783d8-767e-4488-80d6-274eb3e457e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
-      <webElementGuid>cd037215-540f-40e3-b0d2-00ac9cb7f27e</webElementGuid>
+      <webElementGuid>4d6411e7-ac62-460c-a952-d93bcf06234f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>b2fd7991-6d3e-4ca8-b2f6-750e5158aad8</webElementGuid>
+      <webElementGuid>1b788015-90a5-43ca-9adc-c4d149e14fe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,102 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and @id = 'button-register' and (text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>e735fb7e-35dc-460b-8b8b-77091950f89d</webElementGuid>
+      <webElementGuid>f148783e-a1d7-4267-8764-f9d925852853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='button-shipping-method']</value>
+      <webElementGuid>50921b45-dfea-49d7-9f62-c216345063e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-shipping-method']/div[2]/button</value>
+      <webElementGuid>b2b126e9-959c-4305-a3a3-cdf6e569f0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Shipping Rate - $8.00'])[1]/following::button[1]</value>
+      <webElementGuid>be764e74-9c6e-49bf-bfb8-3412a30dad86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Rate'])[1]/following::button[1]</value>
+      <webElementGuid>29fec2d5-4de8-4faa-ad37-43520d0fb58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div[2]/button</value>
+      <webElementGuid>0277a122-499a-448f-9104-5a758e8048fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'button-shipping-method' and (text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>0487cfe1-b2e2-4ccf-a73c-d9028eeba7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='button-shipping-address']</value>
+      <webElementGuid>c707eb18-793b-4745-9b2a-8a7b0828eb59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-shipping-address']/div[2]/button</value>
+      <webElementGuid>18399768-f05b-4dd8-8c34-cb18702af87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region / State'])[1]/following::button[1]</value>
+      <webElementGuid>de5b4f21-330f-47e2-b4d7-a1d2d7331d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::button[1]</value>
+      <webElementGuid>52c63242-d80b-45f3-a5e7-7ba23d9828b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>7b663b90-7436-4192-a3d6-14033d9a13ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'button-shipping-address' and (text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>01934299-b0c0-4e57-80e2-7b7aabc02d8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

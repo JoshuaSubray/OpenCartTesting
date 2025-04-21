@@ -6,12 +6,12 @@
    <elementGuidId>5df8a5d7-282c-4cfe-99ff-31d9ef9699cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='agree']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;agree&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='agree']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>86b1b5be-b037-47da-be03-d8a15fe85758</webElementGuid>
+      <webElementGuid>fd552157-83cf-44b2-8227-cc055b7e3b2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>42180c81-2181-408f-a0d2-a49faee36631</webElementGuid>
+      <webElementGuid>65872e5f-8d19-40e1-96f0-66311f339a66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>agree</value>
-      <webElementGuid>77e11da4-1fcc-4660-82fb-d4df82484135</webElementGuid>
+      <webElementGuid>53851524-129e-4945-aa3c-cd4dcd78aa4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>b8c0c399-57b6-4cc8-b6b0-2605b84b7477</webElementGuid>
+      <webElementGuid>76cdbb27-c7b9-47d5-8bdc-e6c86b3713f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input</value>
-      <webElementGuid>4267f244-9b28-40de-a79f-995c2ff49156</webElementGuid>
+      <webElementGuid>338a04eb-3ffd-4e1b-94b1-5d2a568caf0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-register&quot;)/div[@class=&quot;text-end&quot;]/div[@class=&quot;form-check form-switch form-switch-lg form-check-reverse form-check-inline&quot;]/input[@class=&quot;form-check-input&quot;]</value>
-      <webElementGuid>662825e2-d361-4905-98ff-233e04bfa127</webElementGuid>
+      <webElementGuid>d764c916-8803-44b9-b895-cbf88ce863b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='agree']</value>
-      <webElementGuid>06f8d951-0a0e-4332-a2e1-bdbdbd08a9e7</webElementGuid>
+      <webElementGuid>3c77d390-2900-4a00-a3bd-69e13ed3802c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-register']/div/div/input</value>
-      <webElementGuid>3475186f-875d-4a3f-9b3c-f84771774342</webElementGuid>
+      <webElementGuid>dcd9760a-2c78-42c7-96d8-36a696a773f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/input</value>
-      <webElementGuid>f5c88477-4d0c-4968-8f42-104a47d5ab07</webElementGuid>
+      <webElementGuid>805e8c83-bb6d-4c8e-bb8f-b817acd835c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'agree']</value>
-      <webElementGuid>e48057c6-01aa-4e9e-8950-cf8f324dbf29</webElementGuid>
+      <webElementGuid>61f600f7-946f-4ee0-9f28-67a862ce76bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

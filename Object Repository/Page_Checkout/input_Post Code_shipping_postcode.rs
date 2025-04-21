@@ -6,12 +6,12 @@
    <elementGuidId>48e8b675-40c8-4287-96ba-87ac8414c298</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-shipping-postcode']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#input-shipping-postcode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='input-shipping-postcode']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>87fe630d-d6b9-427b-b1ad-941dfc48b3f9</webElementGuid>
+      <webElementGuid>820724b8-2dcd-438f-abd9-cdc5f3525652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>77658419-3a50-420c-b710-de8cec7ca753</webElementGuid>
+      <webElementGuid>89b2c7c8-0488-467e-82f5-cd9f2564bfec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>shipping_postcode</value>
-      <webElementGuid>fd4f3dfa-15b7-4633-ada8-3e4fc66b48f2</webElementGuid>
+      <webElementGuid>567b4f11-5c5f-41e5-a4bf-2b0758017c1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Post Code</value>
-      <webElementGuid>b5e09530-45a4-4a4e-adee-cc3be9d6436c</webElementGuid>
+      <webElementGuid>0afd7dba-78d4-4db6-93ef-31e81b25847e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-shipping-postcode</value>
-      <webElementGuid>a0ffe4d8-555d-45df-9519-e603fc609951</webElementGuid>
+      <webElementGuid>9b3a3217-c638-4258-90f7-1c248a131f24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>e28c5231-357b-4c25-b1b8-9c7efa2b9b33</webElementGuid>
+      <webElementGuid>b53b874e-4983-49da-bd90-a960d108c6f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-shipping-postcode&quot;)</value>
-      <webElementGuid>a5e61148-1582-4580-b107-598b0a85b33d</webElementGuid>
+      <webElementGuid>9c355074-bead-4446-a4b4-51ab5419382f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-shipping-postcode']</value>
-      <webElementGuid>51543185-adc3-4e38-a213-4b280c339977</webElementGuid>
+      <webElementGuid>5817060b-f8db-49a9-b95d-ea8a6f1af886</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//fieldset[@id='shipping-address']/div/div[5]/input</value>
-      <webElementGuid>961ff519-311b-4929-9dd5-867b74b74373</webElementGuid>
+      <webElementGuid>690ec057-42a1-434b-8afe-fb10891a9b21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/input</value>
-      <webElementGuid>cb25c7c8-80a6-4f50-8fec-5c35a5b56269</webElementGuid>
+      <webElementGuid>1b47e5f3-bafd-40c1-a165-6392145a41ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'shipping_postcode' and @placeholder = 'Post Code' and @id = 'input-shipping-postcode']</value>
-      <webElementGuid>5ca1dd7e-952b-48ab-a851-bbadfe16db52</webElementGuid>
+      <webElementGuid>c275a22e-44a6-45eb-b35b-42b639bb5930</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

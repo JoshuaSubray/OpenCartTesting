@@ -6,12 +6,12 @@
    <elementGuidId>ae916225-8bbc-4a37-bbfa-9af0ebaae818</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//nav[@id='top']/div/div/div[2]/ul/li[2]/div/a/i[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.dropdown-toggle.show > i.fa-solid.fa-caret-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='top']/div/div/div[2]/ul/li[2]/div/a/i[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>3184aa34-828d-4e44-87a6-cc0f73d72558</webElementGuid>
+      <webElementGuid>9ca439db-a835-4242-96e8-e00bfb62f6ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa-solid fa-caret-down</value>
-      <webElementGuid>bff7659e-8cc2-4f8a-8302-b17c01f42935</webElementGuid>
+      <webElementGuid>060ec4d1-f300-4988-b255-50ebd0039cc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col text-end&quot;]/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;list-inline-item&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle show&quot;]/i[@class=&quot;fa-solid fa-caret-down&quot;]</value>
-      <webElementGuid>e4bc0f4b-80c7-4b84-95d8-f8feda2ee284</webElementGuid>
+      <webElementGuid>1ffb8188-9247-4247-adc3-5715ff21cf45</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='top']/div/div/div[2]/ul/li[2]/div/a/i[2]</value>
-      <webElementGuid>c8f0ce52-e6b6-4a51-ba0f-bb90a8dabea5</webElementGuid>
+      <webElementGuid>04123f09-f5d3-4734-a47c-8bd16224e28a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i[2]</value>
-      <webElementGuid>13432a9b-dc27-45c5-8a11-b267af2f8bfc</webElementGuid>
+      <webElementGuid>e99e977b-63ca-47e2-9fd8-75043aab28b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

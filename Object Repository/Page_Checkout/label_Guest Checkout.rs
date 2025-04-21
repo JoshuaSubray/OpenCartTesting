@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Checkout</name>
+   <name>label_Guest Checkout</name>
    <tag></tag>
-   <elementGuidId>ca96e49d-ac7b-4c3d-accf-1eb96f4b1808</elementGuidId>
+   <elementGuidId>6ab8b3dd-aa3f-48d0-9a21-54fa63f842d6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a[title=&quot;Checkout&quot;] > span.d-none.d-lg-inline</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//nav[@id='top']/div/div/div[2]/ul/li[5]/a/span</value>
+         <value>//form[@id='form-register']/fieldset/div/div/div[2]/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Checkout&quot;i]</value>
+         <value>internal:text=&quot;Guest Checkout&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>b47444f7-2bdb-4807-99fe-c5e33b9e54f2</webElementGuid>
+      <value>label</value>
+      <webElementGuid>8d4a86de-71eb-484c-bfa4-0ddb063afcf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-guest</value>
+      <webElementGuid>99746726-d66b-44f7-8f82-5937aaf14eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>d-none d-lg-inline</value>
-      <webElementGuid>e4445b8f-9fb6-45cf-980a-e78c2c96e04a</webElementGuid>
+      <value>form-check-label</value>
+      <webElementGuid>a4cf752c-ad5a-4b23-a0b2-6e508c5eb512</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Checkout</value>
-      <webElementGuid>86dface9-a53f-4b03-9271-a5062ef7fb53</webElementGuid>
+      <value>Guest Checkout</value>
+      <webElementGuid>48429cf6-a7d9-4be1-9079-285a4d6f26ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col text-end&quot;]/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;list-inline-item&quot;]/a[1]/span[@class=&quot;d-none d-lg-inline&quot;]</value>
-      <webElementGuid>75ebe9bb-b419-4fad-977c-5189743019a3</webElementGuid>
+      <value>id(&quot;form-register&quot;)/fieldset[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col mb-3 required&quot;]/div[@class=&quot;form-check form-check-inline&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>04d56e1c-863e-47e0-8a2c-8741fe96a522</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//nav[@id='top']/div/div/div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>1222663f-f270-4fc6-b995-cb95b30333a5</webElementGuid>
+      <value>//form[@id='form-register']/fieldset/div/div/div[2]/label</value>
+      <webElementGuid>128e741f-3b3a-4bc4-8ccd-296da8997adf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/following::span[1]</value>
-      <webElementGuid>a0433567-6d6d-4e62-b19c-bb2d17d4d0a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Account'])[1]/following::label[1]</value>
+      <webElementGuid>81989b87-7c6c-4fe8-9f2f-f87fc99aeabf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/following::span[2]</value>
-      <webElementGuid>f0f1cbaa-d841-48dd-9cb5-6d4301a8e25e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Personal Details'])[1]/following::label[2]</value>
+      <webElementGuid>d109a005-2d7a-4568-9b6e-eba8174bf18f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[2]/preceding::span[1]</value>
-      <webElementGuid>b1684711-bb9d-49af-a799-0d67f772ca68</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Type'])[1]/preceding::label[1]</value>
+      <webElementGuid>54ccdbad-6fd1-4301-9f98-c7925f55b279</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Model: product 11'])[1]/preceding::span[1]</value>
-      <webElementGuid>3753ca48-ed4c-483a-b847-6c7091bb85f9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::label[2]</value>
+      <webElementGuid>49f12081-2369-4983-8c77-600e6a7e45ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Checkout']/parent::*</value>
-      <webElementGuid>614f313b-ea1f-4d7a-a432-1c73ed7af1fe</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Guest Checkout']/parent::*</value>
+      <webElementGuid>402a7505-319e-4607-a972-07f5edd770c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a/span</value>
-      <webElementGuid>06575a5a-21ec-47f1-a44a-ed036aac16aa</webElementGuid>
+      <value>//div/div/div[2]/label</value>
+      <webElementGuid>33541735-d5d7-41dc-bf0c-0dd71a5e8529</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Checkout' or . = 'Checkout')]</value>
-      <webElementGuid>97f77f9e-3c58-4286-af79-843ec02e9d3b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone'])[1]/preceding::span[1]</value>
-      <webElementGuid>404cbc66-4555-4b38-9c61-0db0b30411da</webElementGuid>
+      <value>//label[(text() = 'Guest Checkout' or . = 'Guest Checkout')]</value>
+      <webElementGuid>af9b638f-d473-49e7-a28c-79c5b2832115</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
